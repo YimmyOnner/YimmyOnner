@@ -6,7 +6,6 @@
     <h1>UNIVERSIDAD NACIONAL DE LOJA</h1>
     <h3>Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables</h3>
     <h3>Carrera de Computación</h3>
-    <h2>Portafolio</h2>
   </div>
 
 </div>
@@ -25,6 +24,9 @@
 
 ---
 # <img src="https://img.icons8.com/fluency/48/book.png" width="30"/> Unidad 1
+<p>El contenido de la presente se encuentra presente en el siguiente enlace: 
+[![Contenidos](https://img.shields.io/badge/📖_Contenidos_de_la_Unidad-blue?style=for-the-badge)](./Unidad_1/Contenidos.md)
+</p>
 
 # <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
 
