@@ -4,10 +4,10 @@
 
   <div>
     <h1>UNIVERSIDAD NACIONAL DE LOJA</h1>
-    <h3>Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables</h3>
+    <h3>Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables</h3> <img src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" alt="Logo UNL" width="120" height="120" text-aling: left />
     <h3>Carrera de Computación</h3>
     <h2>Portafolio</h2>
-    <img src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" alt="Logo UNL" width="120" height="120" text-aling: left />
+    
   </div>
 
 </div>
