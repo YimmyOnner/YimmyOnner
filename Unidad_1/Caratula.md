@@ -25,7 +25,8 @@
 ---
 # <img src="https://img.icons8.com/fluency/48/book.png" width="30"/> Unidad 1
 <p>El contenido de la presente se encuentra presente en el siguiente enlace: 
-(./Unidad_1/Contenidos.md)
+[Ver Actividad 1](./unidad1/)
+
 </p>
 
 # <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
