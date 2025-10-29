@@ -7,3 +7,9 @@
 | 3 | **Primer acercamiento al pseudocódigo** | Ejercicio secuencial de cálculo del IMC. | [📄 Ver Evidencia](../Evidencias/Primer_Algoritmo_Secuencial.pdf) |
 | 4 | **Del diseño al programa en C** | Implementación práctica y verificación de resultados. | [📄 Ver Evidencia](../Evidencias/Aprendizaje_Practico_Experimental2.pdf) |
 
+<div align="left">
+
+[![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../README.md)
+
+</div>
+
