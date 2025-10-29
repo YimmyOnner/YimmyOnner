@@ -23,15 +23,15 @@
 📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
 
 ---
-# 📘 <img src="https://img.icons8.com/fluency/48/book.png" width="30"/> Unidad 1
+# <img src="https://img.icons8.com/fluency/48/book.png" width="30"/> Unidad 1
 
-# 💻 <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
+# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
 
-# 🧠 <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
+# <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
 
-# 📚 <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias
+# <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias
 
-# 🤖 <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
+# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
 
 </div>
 
