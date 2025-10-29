@@ -1,10 +1,15 @@
-<div align="center">
-  <div style="text-aling: right;">
-# <img width="200" height="200" alt="Universidad-Nacional-de-Loja-UNL float:left;" src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" />
-   </div>
- **UNIVERSIDAD NACIONAL DE LOJA**  
-### Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables  
-### Carrera de Computación  
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+
+  <img src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" alt="Logo UNL" width="120" height="120" />
+
+  <div>
+    <h1>UNIVERSIDAD NACIONAL DE LOJA</h1>
+    <h3>Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables</h3>
+    <h3>Carrera de Computación</h3>
+    <h2>Portafolio</h2>
+  </div>
+
+</div>
 
 ---
 
