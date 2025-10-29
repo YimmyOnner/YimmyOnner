@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+<div align="right" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
 
   <img src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" alt="Logo UNL" width="120" height="120" />
 
