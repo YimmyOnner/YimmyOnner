@@ -5,3 +5,9 @@
 3. *“Pseudocódigo y Diagrama de Flujo”*, Servicios Dirinfo UNSL. Disponible en: [http://servicios.dirinfo.unsl.edu.ar/abm/assets/uploads/materiales/eafe2-t4-rpya-pseudocodigodf.pdf](http://servicios.dirinfo.unsl.edu.ar/abm/assets/uploads/materiales/eafe2-t4-rpya-pseudocodigodf.pdf)  
 4. G. Pretelin, “Algoritmos, Pseudocódigo y Diagramas de Flujo,” *LinkedIn Pulse*, 2019. Disponible en: [https://es.linkedin.com/pulse/algoritmos-pseudocódigo-y-diagramas-de-flujo-giordan-pretelin](https://es.linkedin.com/pulse/algoritmos-pseudocódigo-y-diagramas-de-flujo-giordan-pretelin)  
 5. *“Pseudocódigo y Diagramas de Flujo,”* Portal Académico CCH, UNAM. Disponible en: [https://portalacademico.cch.unam.mx/cibernetica1/analisis-y-diseno-en-poo/pseudocodigo-y-diagramas-de-flujo](https://portalacademico.cch.unam.mx/cibernetica1/analisis-y-diseno-en-poo/pseudocodigo-y-diagramas-de-flujo)
+
+<div align="left">
+
+[![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../README.md)
+
+</div>
