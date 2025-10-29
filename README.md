@@ -37,5 +37,4 @@
 
 ---
 
-> 💡 *Este portafolio recopila las actividades, reflexiones y aprendizajes adquiridos durante la Unidad 1 de la asignatura Teoría de la Programación.*  
-> Incluye análisis teórico, desarrollo de tareas prácticas, bibliografía técnica y una declaración ética de uso de IA.
+> 💡 *Este portafolio recopila los aprendizajes, reflexiones y evidencias desarrolladas durante la Unidad 1 de la asignatura Teoría de la Programación.*
