@@ -91,27 +91,10 @@ Inicio
    Escribir "El promedio es:", promedio
 Fin
 ```
+---
+Para poder entender de una mejor manera como funciona un algoritmo dentro de Pseint, nuestro editor de comando para principiantes, tenemos el siguiente ejemplo:
 
-**Ejemplo 2: Convertir grados Celsius a Fahrenheit**
-```plaintext
-Inicio
-   Leer celsius
-   fahrenheit ← (celsius * 9 / 5) + 32
-   Escribir "Temperatura en Fahrenheit:", fahrenheit
-Fin
-```
-
-**Ejemplo 3: Cálculo del índice de masa corporal (IMC)**
-```plaintext
-Inicio
-   Leer peso, altura
-   imc ← peso / (altura * altura)
-   Escribir "Su IMC es:", imc
-Fin
-```
-
-> 🔍 *Estos ejemplos muestran cómo los procesos simples permiten desarrollar lógica algorítmica sólida.*
-
+* El ejercicio nos plantea un problema el cual 
 ---
 
 ### ⚠️ Principales Dificultades
