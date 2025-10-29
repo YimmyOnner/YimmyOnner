@@ -160,6 +160,6 @@ Asimismo, la programación por bloques me permitió visualizar estructuras de co
 
  <div align="left">
 
-[![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../README.md)
+[![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
 
 </div>
