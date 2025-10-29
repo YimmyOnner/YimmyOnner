@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🎓 **UNIVERSIDAD NACIONAL DE LOJA**  
+# <img width="500" height="500" alt="Universidad-Nacional-de-Loja-UNL" src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" />
+ **UNIVERSIDAD NACIONAL DE LOJA**  
 ### Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables  
 ### Carrera de Computación  
 
