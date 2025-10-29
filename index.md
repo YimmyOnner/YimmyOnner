@@ -72,4 +72,4 @@
 
 ---
 
-> 💡 *Este portafolio recopila los aprend*
+> 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1, unidad 2 y unidad3, ademas , permitiendo incluir una sección de conclusiones*
