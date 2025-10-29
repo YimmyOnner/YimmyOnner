@@ -1,10 +1,11 @@
 <div align="center">
   <div style="text-aling: right;">
 # <img width="200" height="200" alt="Universidad-Nacional-de-Loja-UNL float:left;" src="https://github.com/user-attachments/assets/5bf46d3b-9cb3-432e-9d24-d464f54d1711" />
+      </div>
  **UNIVERSIDAD NACIONAL DE LOJA**  
 ### Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables  
 ### Carrera de Computación  
-  </div>
+
 ---
 
 ## **PORTAFOLIO DIGITAL DE APRENDIZAJE**  
