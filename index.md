@@ -38,3 +38,11 @@
 ---
 
 > 💡 *Este portafolio recopila los aprendizajes, reflexiones y evidencias desarrolladas durante la Unidad 1 de la asignatura Teoría de la Programación.*
+
+
+---
+
+## Secciones rápidas
+- [Contenidos de la Unidad 1](./Unidad_1/Contenidos.md)
+- [Programación por Bloques](./Unidad_1/Programacion_por_Bloques.md)
+- [Prácticas (PSeInt, Diagramas, C)](./Unidad_1/Practicas.md)

@@ -5,3 +5,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+# If deploying as a project page, uncomment and set baseurl:
+# baseurl: "/Teoria-de-la-Programacion1"
+# url: "https://yimmyonner.github.io"

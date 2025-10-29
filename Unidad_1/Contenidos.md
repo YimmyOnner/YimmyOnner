@@ -163,3 +163,9 @@ Asimismo, la programación por bloques me permitió visualizar estructuras de co
 [![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
 
 </div>
+
+
+---
+
+### 📦 Sección separada: Programación por Bloques
+Para ver ejemplos visuales y análisis detallado, consulte: [Programación por Bloques](./Programacion_por_Bloques.md)
