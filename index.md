@@ -49,4 +49,3 @@
 
 ---
 
-<div align="center">[![Abrir Unidad 1](https://img.shields.io/badge/➡️_Abrir_Unidad_1-blue?style=for-the-badge)](./Unidad_1/Contenidos.md)</div>
