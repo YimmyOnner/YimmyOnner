@@ -10,12 +10,14 @@ La **programación por bloques** es una metodología visual que facilita la comp
 
 **Análisis:**
 
-- Se aprecia una estrategia basada en la comprobación del camino antes de avanzar.
+- Se aprecia una estrategia basada en la comprobación del camino antes de avanzar.  
 - El uso de repetición permite iterar hasta llegar al objetivo sin conocer de antemano la cantidad de pasos.
 
-**Imagen del ejemplo:**
+**Imagen del ejemplo:**  
 
-![](assets/images/Captura de pantalla 2025-10-28 230325.png)
+<p align="center">
+  <img src="../assets/images/Captura%20de%20pantalla%202025-10-28%20230325.png" alt="Laberinto Blockly" style="max-width:900px; width:100%; height:auto; border-radius:6px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+</p>
 
 ---
 
@@ -25,19 +27,21 @@ La **programación por bloques** es una metodología visual que facilita la comp
 
 **Análisis:**
 
-- Fomenta la representación de datos (atributos) y la relación entre ellos.
+- Fomenta la representación de datos (atributos) y la relación entre ellos.  
 - Enseña cómo modelar información antes de su manipulación programática.
 
-**Imagen del ejemplo:**
+**Imagen del ejemplo:**  
 
-![](assets/images/Captura de pantalla 2025-10-28 230357.png)
+<p align="center">
+  <img src="../assets/images/Captura%20de%20pantalla%202025-10-28%20230357.png" alt="Rompecabezas Blockly" style="max-width:900px; width:100%; height:auto; border-radius:6px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+</p>
 
 ---
 
 ## Cómo integrar estos ejercicios en el aprendizaje
 
-1. **Del bloque al pseudocódigo:** Explicar el flujo del bloque y traducirlo a pseudocódigo paso a paso.
-2. **Validación:** Realizar pruebas de escritorio (simular), identificar casos límite y corregir errores lógicos.
+1. **Del bloque al pseudocódigo:** Explicar el flujo del bloque y traducirlo a pseudocódigo paso a paso.  
+2. **Validación:** Realizar pruebas de escritorio (simular), identificar casos límite y corregir errores lógicos.  
 3. **Traspaso a lenguaje textual:** Tomar el algoritmo depurado y convertirlo a C o Python manteniendo la lógica base.
 
 ---
@@ -45,3 +49,4 @@ La **programación por bloques** es una metodología visual que facilita la comp
 <div align="left">
 [![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
 </div>
+
