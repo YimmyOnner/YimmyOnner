@@ -134,8 +134,10 @@ A continuación están los PDFs y recursos que contienen las implementaciones co
 
 ---
 
-<div align="left">
+ <div align="left">
+
 [![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
+
 </div>
 
 
