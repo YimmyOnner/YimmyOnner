@@ -43,13 +43,7 @@
 
 <div align="center">
 
-[![Contenidos](https://img.shields.io/badge/📖_Contenidos_de_la_Unidad-blue?style=for-the-badge)](./Unidad_2/Contenidos.md)
-[![Tareas](https://img.shields.io/badge/🧩_Tareas_Entregadas-green?style=for-the-badge)](./Unidad_2/Tareas_Entregadas.md)
-[![Reflexión](https://img.shields.io/badge/💭_Reflexión_Personal-purple?style=for-the-badge)](./Unidad_2/Reflexion.md)
-[![Bibliografía](https://img.shields.io/badge/📚_Bibliografía-orange?style=for-the-badge)](./Unidad_2/Bibliografia.md)
-[![IA](https://img.shields.io/badge/🤖_Declaración_de_IA-grey?style=for-the-badge)](./Unidad_2/DeclaracionIA.md)
-[![Evidencias](https://img.shields.io/badge/📂_Ver_Evidencias-blueviolet?style=for-the-badge)](./Evidencias)
-
+### Contenido no Disponible: Vuelva al final de la Unidad 2
 </div>
 
 ---
@@ -58,14 +52,9 @@
 
 <div align="center">
 
-[![Contenidos](https://img.shields.io/badge/📖_Contenidos_de_la_Unidad-blue?style=for-the-badge)](./Unidad_3/Contenidos.md)
-[![Tareas](https://img.shields.io/badge/🧩_Tareas_Entregadas-green?style=for-the-badge)](./Unidad_3/Tareas_Entregadas.md)
-[![Reflexión](https://img.shields.io/badge/💭_Reflexión_Personal-purple?style=for-the-badge)](./Unidad_3/Reflexion.md)
-[![Bibliografía](https://img.shields.io/badge/📚_Bibliografía-orange?style=for-the-badge)](./Unidad_3/Bibliografia.md)
-[![IA](https://img.shields.io/badge/🤖_Declaración_de_IA-grey?style=for-the-badge)](./Unidad_3/DeclaracionIA.md)
-[![Evidencias](https://img.shields.io/badge/📂_Ver_Evidencias-blueviolet?style=for-the-badge)](./Evidencias)
-
+### Contenido no Disponible: Vuelva al final de la Unidad 2
 </div>
+
 
 ---
 
