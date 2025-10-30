@@ -9,7 +9,7 @@
 ### Indice de Contenidos de la Unidad.
 | Actividad | Indice | Unidad | 
 |:-----|:------------:|:----------------------------:|
-| 1 |  [![🎯 Caracteristicas y elementos de uno algoritmo](https://img.shields.io/badge/🎯_Presentación_14-deeppink?style=for-the-badge)] | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
+| 1 |  🔒 Caracteristicas y elementos de un algoritmo | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
 | 2 | Actividades | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
 | 3 | sdfsfsdf| [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
 | 4 | jujhujninkjn| [Programacion en bloques](./Temas/Programacion_en_bloques.md) |
