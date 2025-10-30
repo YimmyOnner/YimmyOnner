@@ -11,8 +11,8 @@
 |:-----|:------------:|:----------------------------:|
 | 1 | 🔒 Caracteristicas y elementos de un algoritmo | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
 | 2 | 📊 Tipos de datos Variables y Constantes | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
-| 3 | 🔡 PseInt: El inicio del Programador| [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
-| 4 | jujhujninkjn| [Programacion en bloques](./Temas/Programacion_en_bloques.md) |
+| 3 | 🔡 PseInt: El inicio del Programador | [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
+| 4 | 🔧 Programacion en Bloques | [Programacion en bloques](./Temas/Programacion_en_bloques.md) |
 
 
 ---
