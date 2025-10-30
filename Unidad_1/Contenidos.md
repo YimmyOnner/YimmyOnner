@@ -11,15 +11,9 @@
 |:-----|:------------:|:----------------------------:|
 | 1 | Juegos | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
 | 2 | Actividades | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
-[Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md)
-[Programacion en bloques](./Temas/Programacion_en_bloques.md)
+| 3 | sdfsfsdf| [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
+| 4 | jujhujninkjn| [Programacion en bloques](./Temas/Programacion_en_bloques.md) |
 
-
-| Nombre | Edad | Ciudad |
-|:--------|:----:|--------:|
-| Yimmy | 20 | Loja |
-| María | 22 | Quito |
-| Carlos | 19 | Cuenca |
 
 ---
 ### 🧠 Concepto General
