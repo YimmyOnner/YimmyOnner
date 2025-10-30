@@ -7,8 +7,8 @@
 
 ---
 ### Indice de Contenidos de la Unidad.
-| Actividad | Indice | Unidad | 
-|:-----|:------------:|:----------------------------:|
+| N° | Descripción | Enlaces | 
+|:-----:|:------------:|:----------------------------:|
 | 1 | 🔒 Caracteristicas y elementos de un algoritmo | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
 | 2 | 📊 Tipos de datos Variables y Constantes | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
 | 3 | 🔡 PseInt: El inicio del Programador | [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
