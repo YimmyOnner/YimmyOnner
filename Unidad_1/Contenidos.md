@@ -6,7 +6,13 @@
 - Ejemplos de algoritmos con estructuras lineales y secuenciales  
 
 ---
+### Indice de Contenidos de la Unidad.
+- |1|[Caracteristicas y elementos de un algoritmo]|(./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md)|
+- |2|[Tipos de datos Variables y Constantes]|(./Temas/Tipos_de_datos_Variables_y_Constantes.md)|
+- [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md)
+- [Programacion en bloques](./Temas/Programacion_en_bloques.md)
 
+---
 ### 🧠 Concepto General
 La **Unidad 1** se enfoca en los principios básicos de la **programación estructurada**, introduciendo al estudiante en el pensamiento computacional, la resolución lógica de problemas y el diseño de algoritmos.  
 En esta etapa se busca que el estudiante comprenda que **todo programa informático nace a partir de un algoritmo**, y que dominar su estructura es esencial para garantizar un software eficiente y funcional.  
