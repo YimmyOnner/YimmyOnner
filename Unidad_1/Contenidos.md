@@ -1,5 +1,13 @@
 # 📖 Contenidos de la Unidad 1
 
+* En este documento se presenta un breve resumen de lo visto dentro de las 4 semanas de la Unidad 1 en la asignatura
+  de Teoría de la Programación, si quiere profundizar más, en los diferentes temas, ejercicios, contenidos, algoritmos
+  realizados o tratados dentro de esta Unidad, puede hacerlo dirigiendose al indice de contenido. En este apartado encontrara toda
+  la información desglozada, desde el primer tema visto en la asignatura, hasta el ultimo, tratado en clase. Todo con una muy
+  buena estructura, apta para la comprensión del lector. Ademas podra encontrar algunos temas no tratados en clase pero que tambien
+  nos ayudaron a comprender como se pueden construir los algoritmos dentro de los diferentes lenguajes de programacion
+  como lo serian Java, Python y el que utilizados el Lenguaje C  *
+  
 ### 🔹 Temas Principales
 - Algoritmos, pseudocódigo y diagramas de flujo  
 - Programación por bloques  
@@ -99,39 +107,6 @@ Inicio
 Fin
 ```
 ---
-Para poder entender de una mejor manera como funciona un algoritmo dentro de Pseint, nuestro editor de comando para principiantes, tenemos el siguiente ejemplo:
-
-* El ejercicio nos plantea un problema el cual 
----
-
-### ⚠️ Principales Dificultades
-Durante la unidad se identificaron varios desafíos comunes:
-- Dificultad para **abstraer** un problema real y convertirlo en pasos lógicos.  
-- Errores en la **sintaxis del pseudocódigo**.  
-- Confusión en el uso de **símbolos del diagrama de flujo**.  
-- Dificultad al pasar de la **programación visual** a un lenguaje formal.  
-- Falta de práctica en la **identificación de estructuras secuenciales, condicionales y repetitivas**.  
-
-#### 🧭 Estrategias de superación:
-- Resolver problemas de la vida cotidiana con diagramas y pseudocódigo.  
-- Practicar con simuladores como *Flowgorithm* y *PSeInt*.  
-- Analizar algoritmos ya construidos para identificar sus componentes.  
-- Trabajar colaborativamente en equipos para discutir soluciones.  
-
-> 💪 *El error es parte del proceso lógico. Cada corrección fortalece la comprensión.*
-
----
-
-### 💭 Reflexión Crítica de los Aprendizajes
-Esta unidad fue fundamental para adquirir las bases del pensamiento lógico.  
-Aprendí que **la programación es más que codificar: es estructurar, analizar y crear soluciones**.  
-
-Gracias al uso de herramientas como **PSeInt**, **FreeDFD**, **Python** y **C**, pude comprender la relación entre los algoritmos y la ejecución real de programas.  
-Asimismo, la programación por bloques me permitió visualizar estructuras de control sin preocuparme por la sintaxis, consolidando mi comprensión antes de pasar a la programación textual.  
-
-> ✨ *Dominar los algoritmos es dominar la lógica: el alma de todo programador.*
-
----
 
 ### 📽️ Recursos de Presentaciones
 
@@ -147,6 +122,7 @@ Asimismo, la programación por bloques me permitió visualizar estructuras de co
 ---
 
 > 💡 *Esta unidad representa el inicio del pensamiento computacional, donde el estudiante pasa de la lógica cotidiana a la lógica formal necesaria para programar.*
+
 
  <div align="left">
 
