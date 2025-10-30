@@ -14,6 +14,13 @@
 [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md)
 [Programacion en bloques](./Temas/Programacion_en_bloques.md)
 
+
+| Nombre | Edad | Ciudad |
+|:--------|:----:|--------:|
+| Yimmy | 20 | Loja |
+| María | 22 | Quito |
+| Carlos | 19 | Cuenca |
+
 ---
 ### 🧠 Concepto General
 La **Unidad 1** se enfoca en los principios básicos de la **programación estructurada**, introduciendo al estudiante en el pensamiento computacional, la resolución lógica de problemas y el diseño de algoritmos.  
