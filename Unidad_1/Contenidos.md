@@ -9,9 +9,15 @@
   como lo serian Java, Python y el que utilizados el Lenguaje C  *
   
 ### 🔹 Temas Principales
-- Algoritmos, pseudocódigo y diagramas de flujo  
-- Programación por bloques  
-- Ejemplos de algoritmos con estructuras lineales y secuenciales  
+- Algoritmos, pseudocódigo y diagramas de flujo
+- Tipos de Algoritmos
+- Caracteristicas de un Algoritmo
+- Programación por bloques
+- Ejemplos de algoritmos con estructuras lineales y secuenciales
+- La Herramienta de programación PseInt
+- Tipos de Datos: Variables Constantes
+- Pruebas de Escritorio
+- Lenguaje C: El primer paso en la programación de Alto Nivel
 
 ---
 ### Indice de Contenidos de la Unidad.
@@ -21,6 +27,7 @@
 | 2 | 📊 Tipos de datos Variables y Constantes | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
 | 3 | 🔡 PseInt: El inicio del Programador | [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
 | 4 | 🔧 Programacion en Bloques | [Programacion en bloques](./Temas/Programacion_en_bloques.md) |
+| 5 | 💻 Lenguaje C: El primer paso en la programación de Alto Nivel ||
 
 
 ---
