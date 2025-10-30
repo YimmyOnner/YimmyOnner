@@ -7,10 +7,10 @@
 
 ---
 ### Indice de Contenidos de la Unidad.
-| Actividad | Indice | Unidad | Tareas |
-|N°-|:--:|:------------------------------|:----------------------------|:--------------------------------:|
-| 1 | Juegos| [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
-|2|[Tipos de datos Variables y Constantes]|(./Temas/Tipos_de_datos_Variables_y_Constantes.md)|
+| Actividad | Indice | Unidad | 
+|N°-|:--:|:------------------------------|:----------------------------:|
+| 1 | Juegos | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
+| 2 | Actividades | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
 [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md)
 [Programacion en bloques](./Temas/Programacion_en_bloques.md)
 
