@@ -148,9 +148,4 @@ Asimismo, la programación por bloques me permitió visualizar estructuras de co
 
 ---
 
-### 📦 Sección separada: Programación por Bloques
-Para ver ejemplos visuales y análisis detallado, consulte: [Programación por Bloques](./Programacion_por_Bloques.md)
-- [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md)
-- [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md)
-- [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md)
-- [Programacion en bloques](./Temas/Programacion_en_bloques.md)
+
