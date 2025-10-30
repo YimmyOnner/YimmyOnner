@@ -22,22 +22,19 @@
 📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
 
 ---
+# 📘 Unidad 1
 
-# <img src="https://img.icons8.com/fluency/48/book.png" width="30"/> Unidad 1
-<p>El contenido de la presente unidad se encuentra disponible en los siguientes enlaces:</p>
+El contenido de la presente unidad se encuentra disponible en los siguientes enlaces:
 
-<div align="center">
+| Sección | Descripción | Enlace |
+|:--------|:-------------|:--------|
+| 📖 **Contenidos de la Unidad** | Material teórico y temático de la unidad. | [![Contenidos](https://img.shields.io/badge/📖_Contenidos_de_la_Unidad-blue?style=for-the-badge)](./Unidad_1/Contenidos.md) |
+| 🧩 **Tareas Entregadas** | Actividades prácticas y ejercicios. | [![Tareas](https://img.shields.io/badge/🧩_Tareas_Entregadas-green?style=for-the-badge)](./Unidad_1/Tareas_Entregadas.md) |
+| 💭 **Reflexión Personal** | Reflexión final sobre los aprendizajes obtenidos. | [![Reflexión](https://img.shields.io/badge/💭_Reflexión_Personal-purple?style=for-the-badge)](./Unidad_1/Reflexion.md) |
+| 📚 **Bibliografía** | Fuentes de información y referencias. | [![Bibliografía](https://img.shields.io/badge/📚_Bibliografía-orange?style=for-the-badge)](./Unidad_1/Bibliografia.md) |
+| 🤖 **Declaración de IA** | Uso de herramientas de inteligencia artificial. | [![IA](https://img.shields.io/badge/🤖_Declaración_de_IA-grey?style=for-the-badge)](./Unidad_1/DeclaracionIA.md) |
+| 📂 **Evidencias** | Archivos y productos generados durante la unidad. | [![Evidencias](https://img.shields.io/badge/📂_Ver_Evidencias-blueviolet?style=for-the-badge)](./Evidencias) |
 
-[![Contenidos](https://img.shields.io/badge/📖_Contenidos_de_la_Unidad-blue?style=for-the-badge)](./Unidad_1/Contenidos.md)
-[![Tareas](https://img.shields.io/badge/🧩_Tareas_Entregadas-green?style=for-the-badge)](./Unidad_1/Tareas_Entregadas.md)
-[![Reflexión](https://img.shields.io/badge/💭_Reflexión_Personal-purple?style=for-the-badge)](./Unidad_1/Reflexion.md)
-[![Bibliografía](https://img.shields.io/badge/📚_Bibliografía-orange?style=for-the-badge)](./Unidad_1/Bibliografia.md)
-[![IA](https://img.shields.io/badge/🤖_Declaración_de_IA-grey?style=for-the-badge)](./Unidad_1/DeclaracionIA.md)
-[![Evidencias](https://img.shields.io/badge/📂_Ver_Evidencias-blueviolet?style=for-the-badge)](./Evidencias)
-
-</div>
-
----
 
 # <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
 
