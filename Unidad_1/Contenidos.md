@@ -4,8 +4,6 @@
 - Algoritmos, pseudocódigo y diagramas de flujo  
 - Programación por bloques  
 - Ejemplos de algoritmos con estructuras lineales y secuenciales  
-- Principales dificultades en la aplicación de los contenidos  
-- Reflexión crítica de los aprendizajes de la unidad  
 
 ---
 
