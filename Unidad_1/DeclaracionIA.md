@@ -9,3 +9,4 @@ Todo el contenido, análisis, reflexiones y resultados son de **autoría propia*
 [![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
 
 </div>
+<img width="1366" height="697" alt="RobloxScreenShot20250901_003743888" src="https://github.com/user-attachments/assets/a13429bb-e4e4-449a-84d7-f1a0397077a9" />
