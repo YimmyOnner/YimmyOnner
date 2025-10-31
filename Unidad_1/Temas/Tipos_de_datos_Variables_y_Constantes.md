@@ -3,13 +3,13 @@
 # Clasificación de los tipos de datos
 ## Simples
 
--Enteros (int): valores que no tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 10, 120, 1200, etc.
+- Enteros (int): valores que no tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 10, 120, 1200, etc.
 
--Reales (float o double): valores que tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 4.5, 3.1416, 0.83, etc.
+- Reales (float o double): valores que tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 4.5, 3.1416, 0.83, etc.
 
--Lógicos (boolean): tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero.
+- Lógicos (boolean): tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero.
 
--Carácter (char): conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos; por ejemplo: “a”, “x”, “3”, “#”.
+- Carácter (char): conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos; por ejemplo: “a”, “x”, “3”, “#”.
 
 ## Compuestos
 
@@ -42,10 +42,13 @@ Algunas de las reglas primordiales para un identificador son las siguiente:
 -No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
  A continuación algunos ejemplos para mayor comprension:
 
-• 1nombre: Incorrecto comienza con un numero el identificador el programa no permite eso
-• nombre apellido: Incorrecto cuenta con un espacio en blanco, puede causar una falla en el programa
-• edad-usuario: Incorrecto no puede usar el guion normal, debe utilizar el guion bajo
-• año_actual: Incorrecto no puede llevar letras que no correspondan ene le idioma ingles como la ñ por ejemplo
+- 1nombre: Incorrecto comienza con un numero el identificador el programa no permite eso
+
+- nombre apellido: Incorrecto cuenta con un espacio en blanco, puede causar una falla en el programa
+
+- edad-usuario: Incorrecto no puede usar el guion normal, debe utilizar el guion bajo
+
+- año_actual: Incorrecto no puede llevar letras que no correspondan ene le idioma ingles como la ñ por ejemplo
 
  
 
@@ -65,15 +68,15 @@ Y por ultimo el valor que se quiera agregar mediante la asignacion debe ser comp
 Las constantes son valores que no cambian durante la ejecución del programa, ademas al contrario de las variables para poder identificar las constantes, las podemos escribir en todo el nombre en Mayusculas, a continuacion un ejemplo para mayor comprensión.
 
 Este ejemplo es para calcular el area de un circulo con su radio ingresado desde teclado, pero lo que nos interesa es la constante VALOR_PI que como ya explique se debe escribir ne mayusculas para poderla identificar, gracias a esto este algoritmo no cuenta con errores gramaticales ni semanticos.
+
 <img width="553" height="266" alt="Captura de pantalla 2025-10-31 052408" src="https://github.com/user-attachments/assets/46e29b40-13e2-49e0-b203-b8c17b1ac01d" />
 
 ## Tablas de Operadores
-<img width="701" height="323" alt="Captura de pantalla 2025-10-31 053757" src="https://github.com/user-attachments/assets/910cfcd1-d8a1-4eb4-9d4d-48293f0454c9" />
-<img width="701" height="323" alt="Captura de pantalla 2025-10-31 053757" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
+
 <img width="897" height="142" alt="Captura de pantalla 2025-10-31 053746" src="https://github.com/user-attachments/assets/9a53ca9c-bf0e-4b00-a94c-85478f7e4532" />
 <img width="832" height="255" alt="Captura de pantalla 2025-10-31 053740" src="https://github.com/user-attachments/assets/77e5e718-4fb3-44bc-af81-33988573e0e7" />
 <img width="817" height="288" alt="Captura de pantalla 2025-10-31 053732" src="https://github.com/user-attachments/assets/02436ce5-d60b-4f7f-bf42-74f044e35410" />
-
+<img width="701" height="323" alt="Captura de pantalla 2025-10-31 053757" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
 
 
 
