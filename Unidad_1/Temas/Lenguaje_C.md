@@ -82,17 +82,72 @@ Los **tipos de datos** determinan qué tipo de información puede almacenar una 
 
 ## 🧾 Declaración de variables
 
-Las variables deben declararse **antes de usarse**.
-Ejemplos:
+En C, una **declaración de variable** indica al compilador el *tipo de dato* que tendrá la variable y su *nombre*. Cada declaración termina con un punto y coma (`;`).
+
+### 🔣 Símbolos y su significado
+
+* `;` → Finaliza una sentencia.
+* `,` → Permite declarar varias variables del mismo tipo en una sola línea (`int a, b;`).
+* `[]` → Define un arreglo (por ejemplo, `char nombre[20]` es una cadena de 20 caracteres).
+* `&` → Operador de dirección; obtiene la dirección de memoria de una variable (usado por `scanf`).
+* `*` → Operador de puntero o desreferenciación (apunta a memoria).
+* `=` → Asignación de valor.
+
+### 🧾 Declarar variables: formas comunes
 
 ```c
-int a, b;
-float promedio = 0.0;
-char opcion = 'S';
-char nombre[20] = "Yimmy";
+int a;                // declarar sin inicializar
+int b = 5;            // declarar e inicializar
+float x, y = 2.5;     // declarar varias variables
+char c = 'A';         // carácter
 ```
 
-También pueden declararse **e inicializarse** al mismo tiempo.
+### 📚 Cadena de caracteres (strings) en C — explicación profunda
+
+En C, las cadenas **no** son un tipo nativo de primer nivel; se representan como **arrays de `char`** que terminan con el carácter nulo `\0` (NULL). Ese carácter marca el fin de la cadena en memoria.
+
+```c
+char nombre[20];            // reserva 20 bytes; la cadena puede almacenar hasta 19 caracteres + '\0'
+char saludo[] = "Hola";    // el compilador asigna 5 bytes: 'H','o','l','a','\0'
+char *msg = "Bienvenido";  // puntero a un literal constante en segmento de datos
+```
+
+**Importante:** `char nombre[4] = "hola";` puede provocar sobrescritura de memoria porque necesita 5 bytes (`h`,`o`,`l`,`a`,`\0`).
+
+### 🛡️ Lectura segura de cadenas desde teclado
+
+Usar `scanf("%s", nombre);` puede ser peligroso si no se controla la longitud de entrada. Una opción más segura es limitar el ancho de lectura con especificador de formato:
+
+```c
+char nombre[20];
+scanf("%19s", nombre); // lee hasta 19 caracteres y agrega '\0'
+```
+
+---
+
+### 🔍 Ejemplo detallado y explicado (declaración, lectura y uso)
+
+```c
+#include <stdio.h>
+
+int main() {
+    char nombre[30];           // arreglo para cadena (hasta 29 caracteres + '�')
+    int edad = 20;             // ejemplo de otra variable
+
+    printf("Ingrese su nombre: ");
+    scanf("%29s", nombre);   // lee hasta 29 caracteres (sin espacios)
+
+    printf("Hola %s, bienvenido al programa.
+", nombre);
+    return 0;
+}
+```
+
+**Qué hace el ejemplo (explicación):**
+
+1. Declara una cadena `nombre` y una variable `edad` (en este ejemplo `edad` se define solo como demostración de declaración).
+2. Solicita al usuario que ingrese su nombre y lo lee con `scanf` usando un límite de ancho para evitar desbordamientos.
+3. Muestra en pantalla un saludo que incluye el nombre ingresado.
 
 ---
 
