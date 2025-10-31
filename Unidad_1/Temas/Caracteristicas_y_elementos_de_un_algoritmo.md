@@ -100,7 +100,7 @@ A continuación, se explorarán temas complementarios como **PSeInt**, **entrada
 </div>
 <div align="center">
 
-[![¿Desea regresar al indice de contenidos?](https://img.shields.io/badge/📊_Contenidos-yellow?style=for-the-badge)](../Unidad_1/Contenidos.md)
+[![¿Desea regresar al indice de contenidos?](https://img.shields.io/badge/📊_Contenidos-yellow?style=for-the-badge)](./Unidad_1/Contenidos.md)
 
 </div>
 
