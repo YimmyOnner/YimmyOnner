@@ -143,5 +143,12 @@ Facilitar la comprensión visual del algoritmo, identificar errores y comunicar 
 > PSeInt es una herramienta esencial para aprender a pensar de forma lógica y estructurada.
 > Permite desarrollar la capacidad de **analizar problemas, diseñar algoritmos y comprender la base de la programación estructurada**, antes de pasar a un lenguaje real.
 
+<div align="center">
+
+[![📊 Lenguaje C](https://img.shields.io/badge/📊_Lenguaje.C-blue?style=for-the-badge)](./Lenguaje_C.md)
+
+</div> 
+
+
 
 
