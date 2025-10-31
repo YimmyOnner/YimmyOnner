@@ -101,7 +101,7 @@ A continuación, se explorarán temas complementarios como **PSeInt**, **entrada
 
 <div align="center">
 
-[![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](./Unidad_1/Contenidos.md)
+[![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](../Unidad_1/Caratula.md)
 
 </div>
 
