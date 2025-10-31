@@ -33,10 +33,10 @@
 
 ## 🧩 **Otros apartados de la unidad**
 
-- [📂 Tareas Entregadas](./Tareas.md)  
+- [📂 Tareas Entregadas](./Tareas_Entregadas.md)  
 - [📖 Contenidos de la Unidad](./Contenidos.md)  
-- [💬 Reflexión Personal](./Reflexion_Personal.md)  
-- [🧾 Evidencias](./Evidencias.md)
+- [💬 Reflexión Personal](./Reflexion.md)  
+- [🧾 Evidencias](../Evidencias.md)
 
 ---
 ### 🧠 Concepto General
