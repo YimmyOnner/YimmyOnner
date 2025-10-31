@@ -60,6 +60,6 @@ con los mismos datos, en la prueba de escritorio, nos debe salir las mismas resp
 
 Bueno eso seria todo el contenido en los elementos de los algoritmos, pero aun nos quedo muchos temas que desglozar como PseInt, Las entradas, procesos y salidas, los tipos de datos y todo eso lo veremos a continuación.
 
-[![PseInt: El inicio del Programador](https://img.shields.io/badge/📊_Presentación_2-green?style=for-the-badge)](./Pseint_El_inicio_del_Programador.md) 
+[![PseInt: El inicio del Programador](https://img.shields.io/badge/📊_Pseint_El_inicio_del_Programador-green?style=for-the-badge)](./Pseint_El_inicio_del_Programador.md) 
   
   
