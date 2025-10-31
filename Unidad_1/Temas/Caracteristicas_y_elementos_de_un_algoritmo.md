@@ -98,11 +98,13 @@ A continuación, se explorarán temas complementarios como **PSeInt**, **entrada
 [![📊 PSeInt: El inicio del Programador](https://img.shields.io/badge/📊_PSeint_El_inicio_del_Programador-green?style=for-the-badge)](./Pseint_El_inicio_del_Programador.md)
 
 </div>
+
 <div align="center">
 
-[![¿Desea regresar al indice de contenidos?](https://img.shields.io/badge/📊_Contenidos-yellow?style=for-the-badge)](../Unidad_1/Contenidos.md)
+[![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](./Unidad_1/Contenidos.md)
 
 </div>
+
 
   
   
