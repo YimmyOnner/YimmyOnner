@@ -1,65 +1,103 @@
-# Caracteristicas y Proceso de un Algoritmo.
-Antes de hablar sobre las caracteristicas de un algoritmo, hablemos sobre que es un algoritmo:
+# 🧩 **Características y Proceso de un Algoritmo**
 
-# ¿Qué es un algoritmo?
+---
 
-  Un algoritmo son una serie de pasos definidos, los cuales nos ayudan a llegar a la solución de un determinado problema. Estos algoritmos       pueden ser de 2 tipos cualitativos o cuantitativos.
+## 🧠 **¿Qué es un algoritmo?**
 
-# Los algoritmos cualitativos:
-  Estos algoritmos se caracterizan por el uso de palabras y frases, sin tener en cuenta los calculos matemáticos. El ovjetivo de estos           algoritmos es guiar al usuario, para poder llegar a la solucion de un problema determinado, o en algunos casos, solo se los construye como     una rutina seguida por las personas en su diario vivir.
+Un **algoritmo** es una serie de pasos definidos, los cuales nos ayudan a llegar a la solución de un determinado problema.  
+Estos algoritmos pueden ser de **dos tipos**: **cualitativos** o **cuantitativos**.
 
-  A continuación se presenta un sencillo algoritmo el cual consiste en una serie de pasos, para realizar el correcto lavado de los dientes,      con este ejemplo nos podemos dar una idea de como se estructura un algoritmo cualitativo, como se lo construye, cual es su proposito, y lo     más importante en que aspecto de nuestra vida diaria se lo podria aplicar, y esto es algo que no mucha gente conoce, pero todos utilizamos     algoritmos en nuestra vida, siendo la base de nuestro diario vivir, con esto ejemplo se puede entender todo esto a la perfección.
-  
-  <img width="594" height="416" alt="organizar_los_pasos_para_solucionar_un_problema_03" src="https://github.com/user-attachments/assets/6dda59c6-1e27-4cac-a854-8f5773be6edd" />
+---
 
+## ✏️ **Los Algoritmos Cualitativos**
 
-# Los algoritmos cuantitativos:
-  A diferencia de los algoritmos cualitativos, los algoritmos cuantitativos, son los que involucran cualquien calculo matemático, el cual nos    ayuda a llegar a la solución de un determinado problema, este tipo de algoritmo es el que más se utiliza en el mundo de la programacion,       siendo la base fundamental de cualquier programa:
+Los **algoritmos cualitativos** se caracterizan por el uso de **palabras y frases**, sin tener en cuenta los cálculos matemáticos.  
+El objetivo de estos algoritmos es **guiar al usuario** para llegar a la solución de un problema determinado o representar rutinas que seguimos en la vida cotidiana.
 
-  Puede ser que esta descripción sea un poco ambigua, pero con el siguiente ejemplo se podra comprender de una mejor manera este concepto el     cual los vamos aplicar hasta el final de nuestra carrera y de nuestro trabajo como ingenieros:
-  - Este algoritmo corresponde a la suma de 2 numeros, mediante el ingreso de los valores por teclado, declarados anteriormente como enteros,      y los mismos que se van a almacenar en las variables a y b, el resultado de esa suma se almacena en una variable de nombre "c", ya en otro     apartado hablaremos de los tipos de datos, variables y constantes, y por ultimo el valor almacenado en la variable c se presenta por           pantalla, mostrando la suma de los "x", "y" numeros ingresados por el usuario  
-  <img width="456" height="208" alt="ejemplo5" src="https://github.com/user-attachments/assets/931093b6-91bf-41b6-b999-a215fc74afc9" />
-  
+📘 **Ejemplo:**  
+A continuación se presenta un sencillo algoritmo para realizar el correcto **lavado de los dientes**.  
+Con este ejemplo se puede entender cómo se estructura un algoritmo cualitativo, su propósito y su aplicación práctica en la vida diaria.
 
+<img width="594" height="416" alt="organizar_los_pasos_para_solucionar_un_problema_03" src="https://github.com/user-attachments/assets/6dda59c6-1e27-4cac-a854-8f5773be6edd" />
 
-# Caracteristicas de un algoritmo:
+---
 
-- Primero que todo un algoritmo debe ser finido, que significa esto, que debe tener un inicio y un fin bien marcados, debido a que si un algoritmo no cumple con esta principal caracteristica, podemos decir que el computador podria tener algunas fallas debido al espacio de memoria
-que ese programa ocuparia, provocando en el peor de los casos el formateo de la computadora. Es debido a esto que todo algortimo debe
-contar siempre con un inicio y un fin.
+## 🔢 **Los Algoritmos Cuantitativos**
 
-- Un algoritmo tambien debe ser preciso, es decir, debe definir toda su estructura de manera clara, el orden de cada proceso,
-la manera en la que se realizo, por eso la mayoria de lenguajes de programación nos permite colocar comentarios, gracias a esto
-se puede tener conocimiento de que acción realiza cualquier linea de codigo.  
+A diferencia de los cualitativos, los **algoritmos cuantitativos** son aquellos que involucran **cálculos matemáticos**, ayudándonos a resolver problemas mediante operaciones numéricas.  
+Este tipo de algoritmo es la **base fundamental de la programación**, ya que todo programa depende de operaciones y cálculos lógicos.
 
-- Un algoritmo debe ser definido, que significa esta frase, nos quiere decir que si nosotros ejecutamos varias veces el mismo algoritmo
-con los mismos datos, en la prueba de escritorio, nos debe salir las mismas respuestas en todas las veces que nosotros probemos, casi contrario ese algoritmo no cumple con esta caracteristica.
+📘 **Ejemplo explicado:**  
+Este algoritmo corresponde a la **suma de dos números**.  
+1️⃣ Los valores son ingresados por teclado y almacenados en las variables `a` y `b`.  
+2️⃣ El resultado se guarda en la variable `c`.  
+3️⃣ Finalmente, se muestra el resultado por pantalla.
 
+<img width="456" height="208" alt="ejemplo5" src="https://github.com/user-attachments/assets/931093b6-91bf-41b6-b999-a215fc74afc9" />
 
-# Elementos de un algoritmo
-- Analisis del Problema: En esta parte se identifican los 3 elementos principales de todo algoritmo los cuales son los datos de: entrada,        proceso y salida.
+---
 
-- Diseño del Algoritmo: Un algoritmo para poder llegar a la solución de algun problema determinado se lo puede diseñar de 2 formas, las cuales
-  son: Pseudocodigo y Diagrama de Flujo. ¿Qué es Pseudocodigo y diagrama de flujo?, bueno eso lo veremos mas adelante.
+## ⚙️ **Características de un Algoritmo**
 
-- Codificación: Mi parte favorita a decir verdad, se trata de traducir lo escrito en nuestro lenguaje natural, al lenguaje que puede entender    una computadora, el cual es el lenguaje de programación, obteniendo gracias a esto un codigo fuente el cual puede ser entendido y ejecutado    por la computadora, permitiendonos llegar a la solución del problema.
+- 🧩 **Debe ser finito:**  
+  Un algoritmo debe tener un **inicio y un fin bien definidos**.  
+  Si un algoritmo no cumple con esta característica, podría provocar errores o sobrecarga en la memoria del computador.
 
-- Pruebas: Las pruebas, se las conoce mejor como pruebas de escritorio, son la manera en que nosotros podemos comprobar si el algortimo que      diseñamos nos permite llegar a la solución del problema, depurando los posibles errores que puedan existir, y de esta manera obtener un        codigo limpio de errores y correctamente funcional. Las pruebas de escritorio se las representa en forma de tabla, para ponerles el ejemplo    esta es un tabla de una prueba de escritorio con 3 casos diferentes, tomando en cuanta el algoritmo de la suma de 2 numeros descrito           anteriormente.
-  | Entrada | Proceso | Salida |
-  |:----:|:-----:|:-------:|
-  | Valor de a: 4; Valor de b: 5;| c = a + b| valor de c= 9|
-  | Valor de a: 7; Valor de b: 8;| c = a + b| valor de c= 15|
-  | Valor de a: 9; Valor de b: 3;| c = a + b| valor de c= 12|
+- 🧭 **Debe ser preciso:**  
+  Debe definir su estructura de manera clara y ordenada.  
+  Los **comentarios** en el código permiten comprender qué acción realiza cada línea.
 
-  Las pruebas de escritorio normalmente no llevan palabras como: Valor de a o bo valor de c, solo que yo para fines academicos y de              comprensión del lector decidi diseñarla de esa manera tan peculiar, y tambien adjunto una captura de como se veria esta prueba de escritorio   en pantalla:
-  
-  <img width="531" height="340" alt="Captura de pantalla 2025-10-31 025358" src="https://github.com/user-attachments/assets/522f1a18-2837-44c4-a9b4-29f7859bb534" />
+- 🔁 **Debe ser definido:**  
+  Si se ejecuta varias veces con los mismos datos, debe arrojar **los mismos resultados** en cada prueba.  
+  Si no es así, el algoritmo no cumple con esta característica.
 
-  Con todo esto estoy seguro que el elemento pruebas del algoritmo quedo mas que claro.
-- Documentación y Mantenimiento: En este apartado se puede realizar un pequeño informe sobre la elaboración de nuestro algortimo, pero este      apartado no se lo aplica mucho en proyectos pequeños, mas bien es utilizado en proyectos a gran escala como lo serian pregramas avanzados en   Java, Python y otros lenguajes de alto nivel.
+---
 
-Bueno eso seria todo el contenido en los elementos de los algoritmos, pero aun nos quedo muchos temas que desglozar como PseInt, Las entradas, procesos y salidas, los tipos de datos y todo eso lo veremos a continuación.
+## 🧱 **Elementos de un Algoritmo**
 
-[![PseInt: El inicio del Programador](https://img.shields.io/badge/📊_Pseint_El_inicio_del_Programador-green?style=for-the-badge)](./Pseint_El_inicio_del_Programador.md) 
+- 🧮 **Análisis del Problema:**  
+  Se identifican los tres elementos principales de todo algoritmo: **entrada, proceso y salida**.
+
+- 🧠 **Diseño del Algoritmo:**  
+  Se puede representar de dos formas: **pseudocódigo** o **diagrama de flujo**.  
+  *(Estos temas se profundizan más adelante).*
+
+- 💻 **Codificación:**  
+  Consiste en **traducir** el algoritmo a un **lenguaje de programación**, obteniendo el **código fuente** que la computadora puede entender y ejecutar.
+
+- 🧾 **Pruebas:**  
+  Las **pruebas de escritorio** permiten comprobar si el algoritmo diseñado funciona correctamente.  
+  Se representan en forma de tabla, como el siguiente ejemplo basado en la **suma de dos números**:
+
+| 🟢 **Entrada** | ⚙️ **Proceso** | 🔵 **Salida** |
+|:--------------:|:--------------:|:-------------:|
+| Valor de a: 4; Valor de b: 5; | c = a + b | valor de c = 9 |
+| Valor de a: 7; Valor de b: 8; | c = a + b | valor de c = 15 |
+| Valor de a: 9; Valor de b: 3; | c = a + b | valor de c = 12 |
+
+📊 **Nota:**  
+Las pruebas de escritorio normalmente no incluyen texto como “valor de a” o “valor de c”.  
+En este caso se mantienen solo con fines académicos y de comprensión.
+
+<img width="531" height="340" alt="Captura de pantalla 2025-10-31 025358" src="https://github.com/user-attachments/assets/522f1a18-2837-44c4-a9b4-29f7859bb534" />
+
+---
+
+- 🧾 **Documentación y Mantenimiento:**  
+  Este apartado se utiliza principalmente en **proyectos grandes o profesionales**, donde se redacta un informe técnico del algoritmo implementado.
+
+---
+
+📘 Con esto, los **elementos y características de los algoritmos** quedan claros.  
+A continuación, se explorarán temas complementarios como **PSeInt**, **entradas, procesos, salidas** y **tipos de datos**.
+
+---
+
+<div align="center">
+
+[![📊 PSeInt: El inicio del Programador](https://img.shields.io/badge/📊_PSeint_El_inicio_del_Programador-green?style=for-the-badge)](./Pseint_El_inicio_del_Programador.md)
+
+</div>
+
   
   
