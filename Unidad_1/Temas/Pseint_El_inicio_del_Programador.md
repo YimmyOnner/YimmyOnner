@@ -1,5 +1,60 @@
 # Pseint El inicio del Programador
 
+# ⚙️ Entrada, Proceso y Salida de Datos en PSeInt
+
+---
+
+## 🟢 **Entrada de Datos**
+
+La **entrada de datos** es el proceso mediante el cual el usuario proporciona información al algoritmo para que este pueda realizar sus operaciones.
+En **PSeInt**, se utiliza la instrucción **`Leer`** para capturar los valores ingresados desde el teclado.
+
+```pseint
+Leer nombre, edad
+```
+
+🧠 **Ejemplo explicado:**
+➡️ El programa solicita al usuario su **nombre** y **edad**, almacenándolos en las variables correspondientes para su uso posterior.
+
+---
+
+## 🟡 **Proceso de Datos**
+
+El **proceso** comprende todas las operaciones, transformaciones o cálculos que el algoritmo realiza utilizando los datos de entrada.
+Aquí es donde se aplica la lógica del programa para obtener los resultados deseados.
+
+```pseint
+suma <- numero1 + numero2
+promedio <- suma / 2
+```
+
+⚙️ **Ejemplo explicado:**
+➡️ El algoritmo **procesa** los valores sumando dos números y luego dividiéndolos para obtener su promedio.
+
+---
+
+## 🔵 **Salida de Datos**
+
+La **salida de datos** muestra al usuario los resultados del proceso.
+En **PSeInt**, se emplea la instrucción **`Escribir`** para visualizar información en pantalla.
+
+```pseint
+Escribir "El promedio es: ", promedio
+```
+
+💬 **Ejemplo explicado:**
+➡️ El programa **muestra** en pantalla el resultado final del cálculo, en este caso el valor del promedio.
+
+---
+
+✨ **Resumen visual**
+
+| Fase           | Instrucción en PSeInt      | Descripción breve                 |
+| -------------- | -------------------------- | --------------------------------- |
+| 🟢 **Entrada** | `Leer`                     | Captura los datos del usuario.    |
+| 🟡 **Proceso** | Operaciones y asignaciones | Calcula o transforma los datos.   |
+| 🔵 **Salida**  | `Escribir`                 | Muestra el resultado en pantalla. |
+
 # 💻 ¿Qué es PSeInt?
 
 PSeInt (Pseudo Intérprete) es una herramienta educativa diseñada para ayudar a los estudiantes a comprender los fundamentos de la programación mediante el uso de pseudocódigo.
@@ -33,7 +88,7 @@ El pseudocódigo permite expresar ideas algorítmicas de forma ordenada, clara y
 
 <img width="1056" height="467" alt="Captura de pantalla 2025-10-31 055502" src="https://github.com/user-attachments/assets/dd0d81ff-3446-4ca2-be5a-1394d2f4a668" />
 
-Este algoritmo nos sirve para hallar el valor del area de un circulo, en donde se pide que el usuario ingrese el valor del radio por pantalla
+Este algoritmo nos sirve para hallar el valor del area de un circulo, en donde se pide que el usuario ingrese el valor del radio por teclado, despues ese valor ingresado se almacena en la variable radio, seguidamente se le asigna el valor a la constante que vamos a emplear en este caso es VALOR_PI= 3.1415, seguidamente el proceso es la multiplicación del VALOR_PI * radio ^ 2, toda esta operación se almacena en la variable area, declarada anteriormente como real junto con el radio, y para finalizar, el programa presenta el valor del area por pantalla.
 
 # 🔁 Diagrama de Flujo
 
@@ -55,6 +110,7 @@ De esta manera, se facilita la comprensión del algoritmo, la detección de erro
 
 - Flechas: Conectan los símbolos, mostrando la dirección del flujo del algoritmo.
 
+<img width="1365" height="717" alt="Captura de pantalla 2025-10-31 061004" src="https://github.com/user-attachments/assets/5f5fc27a-14cf-4090-90df-5ab97d221208" />
 
 
 
