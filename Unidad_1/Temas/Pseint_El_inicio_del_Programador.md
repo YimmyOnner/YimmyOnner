@@ -97,9 +97,13 @@ Permite representar los pasos lógicos de un algoritmo de manera **estructurada,
 🧠 **Análisis del ejemplo:**
 Este algoritmo permite calcular el **área de un círculo**.
 1️⃣ El programa pide al usuario que ingrese el valor del **radio**.
+
 2️⃣ Ese valor se almacena en la variable `radio`.
+
 3️⃣ Se define una constante `VALOR_PI = 3.1415`.
+
 4️⃣ El proceso realiza la operación `VALOR_PI * radio^2` y guarda el resultado en `area`.
+
 5️⃣ Finalmente, el programa **muestra el área calculada** en pantalla.
 
 ---
@@ -117,9 +121,13 @@ Facilitar la comprensión visual del algoritmo, identificar errores y comunicar 
 ### 🧩 **Principales símbolos utilizados**
 
 * 🔸 **Óvalo:** Representa el **inicio o fin** del algoritmo.
+  
 * 🟦 **Rectángulo:** Indica un **proceso u operación** (como un cálculo o asignación).
+  
 * 🔷 **Rombo:** Representa una **decisión o condición** (flujo dividido en verdadero/falso).
+
 * ⬛ **Paralelogramo:** Entrada o salida de datos (`Leer` o `Escribir`).
+
 * 🔺 **Flechas:** Conectan los símbolos y muestran la **dirección del flujo**.
 
 ---
