@@ -36,8 +36,7 @@
 - [📂 Tareas Entregadas](./Tareas_Entregadas.md)  
 - [📖 Contenidos de la Unidad](./Contenidos.md)  
 - [💬 Reflexión Personal](./Reflexion.md)  
-- [🧾 Evidencias](../Evidencias.md)
-
+- [🧾 Evidencias](../Evidencias/)
 ---
 ### 🧠 Concepto General
 La **Unidad 1** se enfoca en los principios básicos de la **programación estructurada**, introduciendo al estudiante en el pensamiento computacional, la resolución lógica de problemas y el diseño de algoritmos.  
