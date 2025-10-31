@@ -17,7 +17,7 @@ Antes de hablar sobre las caracteristicas de un algoritmo, hablemos sobre que es
   A diferencia de los algoritmos cualitativos, los algoritmos cuantitativos, son los que involucran cualquien calculo matemático, el cual nos    ayuda a llegar a la solución de un determinado problema, este tipo de algoritmo es el que más se utiliza en el mundo de la programacion,       siendo la base fundamental de cualquier programa:
 
   Puede ser que esta descripción sea un poco ambigua, pero con el siguiente ejemplo se podra comprender de una mejor manera este concepto el     cual los vamos aplicar hasta el final de nuestra carrera y de nuestro trabajo como ingenieros:
-  - Este algoritmo corresponde a la suma de 2 numeros, mediante el ingreso de los valores por teclado, el resultado de esa suma de almacena en     una variable de nombre "c", ya en otro apartado hablaremos de los tipos de datos, variables y constantes, y por ultimo el valor almacenado     en la variable c se presenta por pantalla, mostrando la suma de los "x", "y" numeros ingresados por el usuario  
+  - Este algoritmo corresponde a la suma de 2 numeros, mediante el ingreso de los valores por teclado, declarados anteriormente como enteros,      y los mismos que se van a almacenar en las variables a y b, el resultado de esa suma se almacena en una variable de nombre "c", ya en otro     apartado hablaremos de los tipos de datos, variables y constantes, y por ultimo el valor almacenado en la variable c se presenta por           pantalla, mostrando la suma de los "x", "y" numeros ingresados por el usuario  
   <img width="456" height="208" alt="ejemplo5" src="https://github.com/user-attachments/assets/931093b6-91bf-41b6-b999-a215fc74afc9" />
   
 
@@ -33,8 +33,21 @@ la manera en la que se realizo, por eso la mayoria de lenguajes de programación
 se puede tener conocimiento de que acción realiza cualquier linea de codigo.  
 
 - Un algoritmo debe ser definido, que significa esta frase, nos quiere decir que si nosotros ejecutamos varias veces el mismo algoritmo
-con los mismos datos, en la prueba de escritorio, nos debe salir las mismas respuestas en todas las veces que nosotros probemos, casi contrario ese algoritmo no cumple con esta caracteristica
+con los mismos datos, en la prueba de escritorio, nos debe salir las mismas respuestas en todas las veces que nosotros probemos, casi contrario ese algoritmo no cumple con esta caracteristica.
+
 
 # Elementos de un algoritmo
-- Analisis del Problema: En esta parte se identifican los 3 elementos principales de todo algoritmo los cuales son los datos de: entrada, proceso y salida.
-- Diseño del Algoritmo: Un algoritmo para poder llegar a una solucion determinada
+- Analisis del Problema: En esta parte se identifican los 3 elementos principales de todo algoritmo los cuales son los datos de: entrada,        proceso y salida.
+
+- Diseño del Algoritmo: Un algoritmo para poder llegar a la solución de algun problema determinado se lo puede diseñar de 2 formas, las cuales
+  son: Pseudocodigo y Diagrama de Flujo. ¿Qué es Pseudocodigo y diagrama de flujo?, bueno eso lo veremos mas adelante.
+
+- Codificación: Mi parte favorita a decir verdad, se trata de traducir lo escrito en nuestro lenguaje natural, al lenguaje que puede entender    una computadora, el cual es el lenguaje de programación, obteniendo gracias a esto un codigo fuente el cual puede ser entendido y ejecutado    por la computadora, permitiendonos llegar a la solución del problema.
+
+- Pruebas: Las pruebas, se las conoce mejor como pruebas de escritorio, son la manera en que nosotros podemos comprobar si el algortimo que      diseñamos nos permite llegar a la solución del problema, depurando los posibles errores que puedan existir, y de esta manera obtener un        codigo limpio de errores y correctamente funcional. Las pruebas de escritorio se las representa en forma de tabla, para ponerles el ejemplo    esta es un tabla de una prueba de escritorio con 3 casos diferentes, tomando en cuanta el algoritmo de la suma de 2 numeros descrito           anteriormente.
+  | Entrada | Proceso | Salida |
+  |:----:|:-----:|:-------:|
+  | Valor de a: 4; Valor de b: 5;| c = a + b| valor de c= 9|
+  | Valor de a: 7; Valor de b: 8;| c = a + b| valor de c= 15|
+  | Valor de a: 9; Valor de b: 3;| c = a + b| valor de c= 12|
+  
