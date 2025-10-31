@@ -8,6 +8,7 @@ Antes de hablar sobre las caracteristicas de un algoritmo, hablemos sobre que es
   Estos algoritmos se caracterizan por el uso de palabras y frases, sin tener en cuenta los calculos matemáticos. El ovjetivo de estos           algoritmos es guiar al usuario, para poder llegar a la solucion de un problema determinado, o en algunos casos, solo se los construye como     una rutina seguida por las personas en su diario vivir.
 
   A continuación se presenta un sencillo algoritmo el cual consiste en una serie de pasos, para realizar el correcto lavado de los dientes,      con este ejemplo nos podemos dar una idea de como se estructura un algoritmo cualitativo, como se lo construye, cual es su proposito, y lo     más importante en que aspecto de nuestra vida diaria se lo podria aplicar, y esto es algo que no mucha gente conoce, pero todos utilizamos     algoritmos en nuestra vida, siendo la base de nuestro diario vivir, con esto ejemplo se puede entender todo esto a la perfección.
+  
   <img width="594" height="416" alt="organizar_los_pasos_para_solucionar_un_problema_03" src="https://github.com/user-attachments/assets/6dda59c6-1e27-4cac-a854-8f5773be6edd" />
 
 
