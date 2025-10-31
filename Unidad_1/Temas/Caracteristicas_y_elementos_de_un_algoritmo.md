@@ -60,5 +60,6 @@ con los mismos datos, en la prueba de escritorio, nos debe salir las mismas resp
 
 Bueno eso seria todo el contenido en los elementos de los algoritmos, pero aun nos quedo muchos temas que desglozar como PseInt, Las entradas, procesos y salidas, los tipos de datos y todo eso lo veremos a continuación.
 
+[Pseint El inicio del Programador](./Pseint_El_inicio_del_Programador.md) 
   
   
