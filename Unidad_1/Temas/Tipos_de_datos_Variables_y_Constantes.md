@@ -10,6 +10,8 @@
 - Lógicos (boolean): tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero.
 
 - Carácter (char): conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos; por ejemplo: “a”, “x”, “3”, “#”.
+- Cadena (también conocidas como alfanuméricos): La combinación de los caracteres forma una cadena. Ejemplo: “Calle 107 # 125-48A”, “Hola mundo”.
+
 
 ## Compuestos
 
@@ -79,4 +81,9 @@ Este ejemplo es para calcular el area de un circulo con su radio ingresado desde
 <img width="701" height="323" alt="Captura de pantalla 2025-10-31 053757" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
 
 
+## Ejemplo de la prioridad de los operadores en accion
+
+<img width="402" height="218" alt="Captura de pantalla 2025-10-31 054421" src="https://github.com/user-attachments/assets/1cf59ce7-11d0-46f7-98e0-3088e7696a6e" />
+
+Eso seria todo por esta seccion por favor vuelva al contenido de la Unidad para pasar a otra sección:
 
