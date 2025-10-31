@@ -50,4 +50,10 @@ con los mismos datos, en la prueba de escritorio, nos debe salir las mismas resp
   | Valor de a: 4; Valor de b: 5;| c = a + b| valor de c= 9|
   | Valor de a: 7; Valor de b: 8;| c = a + b| valor de c= 15|
   | Valor de a: 9; Valor de b: 3;| c = a + b| valor de c= 12|
+
+  Las pruebas de escritorio normalmente no llevan palabras como: Valor de a o bo valor de c, solo que yo para fines academicos y de              comprensión del lector decidi diseñarla de esa manera tan peculiar, y tambien adjunto una captura de como se veria esta prueba de escritorio   en pantalla:
+  
+  Con todo esto estoy seguro que el elemento pruebas del algoritmo quedo mas que claro:
+
+  
   
