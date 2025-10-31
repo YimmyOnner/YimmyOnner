@@ -96,6 +96,7 @@ Permite representar los pasos lógicos de un algoritmo de manera **estructurada,
 
 🧠 **Análisis del ejemplo:**
 Este algoritmo permite calcular el **área de un círculo**.
+
 1️⃣ El programa pide al usuario que ingrese el valor del **radio**.
 
 2️⃣ Ese valor se almacena en la variable `radio`.
