@@ -281,8 +281,3 @@ Su aprendizaje brinda una base sólida para otros lenguajes como C++, Java o Pyt
 
 ---
 
-## 📚 Referencias
-
-* Goin, M. (2022). *Caminando junto al Lenguaje C*. Editorial UNRN.
-* Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E. (2023). *Programando en C desde la práctica: problemas resueltos*. Puerto Madero Editorial.
-* Figueroa Piscoya, J. et al. (2021). *Ejercicios básicos de programación estructurada*.
