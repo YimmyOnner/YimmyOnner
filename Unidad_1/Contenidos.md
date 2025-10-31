@@ -20,15 +20,23 @@
 - Lenguaje C: El primer paso en la programación de Alto Nivel
 
 ---
-### Indice de Contenidos de la Unidad.
-| N° | Descripción | Enlaces | 
-|:-----:|:------------:|:----------------------------:|
-| 1 | 🔒 Caracteristicas y elementos de un algoritmo | [Caracteristicas y elementos de un algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) |
-| 2 | 📊 Tipos de datos Variables y Constantes | [Tipos de datos Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) |
-| 3 | 🔡 PseInt: El inicio del Programador | [Pseint El inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) |
-| 4 | 🔧 Programacion en Bloques | [Programacion en bloques](./Temas/Programacion_en_bloques.md) |
-| 5 | 💻 Lenguaje C: El primer paso en la programación de Alto Nivel ||
+## 📘 **Temas de la Unidad**
 
+| 📂 **Tema** | 🧾 **Descripción del Contenido** |
+|:--------------------------------------------|:-------------------------------------------------------------|
+| [🧩 Características y Elementos de un Algoritmo](./Temas/Caracteristicas_y_elementos_de_un_algoritmo.md) | Conceptos esenciales sobre qué es un algoritmo, sus características y los elementos que lo componen. |
+| [💾 Tipos de Datos: Variables y Constantes](./Temas/Tipos_de_datos_Variables_y_Constantes.md) | Explicación de los tipos de datos básicos, variables, constantes y sus reglas de declaración. |
+| [🧠 PSeInt: El Inicio del Programador](./Temas/Pseint_El_inicio_del_Programador.md) | Introducción al uso del pseudocódigo y la herramienta PSeInt como base de la programación. |
+| [💻 Lenguaje C](./Temas/Lenguaje_C.md) | Aplicación práctica de los conceptos aprendidos en el lenguaje de programación C. |
+
+---
+
+## 🧩 **Otros apartados de la unidad**
+
+- [📂 Tareas Entregadas](./Tareas.md)  
+- [📖 Contenidos de la Unidad](./Contenidos.md)  
+- [💬 Reflexión Personal](./Reflexion_Personal.md)  
+- [🧾 Evidencias](./Evidencias.md)
 
 ---
 ### 🧠 Concepto General
