@@ -55,7 +55,10 @@ con los mismos datos, en la prueba de escritorio, nos debe salir las mismas resp
   
   <img width="531" height="340" alt="Captura de pantalla 2025-10-31 025358" src="https://github.com/user-attachments/assets/522f1a18-2837-44c4-a9b4-29f7859bb534" />
 
-  Con todo esto estoy seguro que el elemento pruebas del algoritmo quedo mas que claro:
+  Con todo esto estoy seguro que el elemento pruebas del algoritmo quedo mas que claro.
+- Documentación y Mantenimiento: En este apartado se puede realizar un pequeño informe sobre la elaboración de nuestro algortimo, pero este      apartado no se lo aplica mucho en proyectos pequeños, mas bien es utilizado en proyectos a gran escala como lo serian pregramas avanzados en   Java, Python y otros lenguajes de alto nivel.
+
+Bueno eso seria todo el contenido en los elementos de los algoritmos, pero aun nos quedo muchos temas que desglozar como PseInt, Las entradas, procesos y salidas, los tipos de datos y todo eso lo veremos a continuación.
 
   
   
