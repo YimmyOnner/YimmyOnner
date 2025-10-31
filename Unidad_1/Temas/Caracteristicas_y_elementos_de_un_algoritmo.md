@@ -99,9 +99,9 @@ A continuación, se explorarán temas complementarios como **PSeInt**, **entrada
 
 </div>
 
-<div align="center">
+<div align="left">
 
-[![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](.../Unidad_1/Caratula.md)
+[![Regresar a Contenidos](https://img.shields.io/badge/🔙_Regresar_a_Contenidos-blue?style=for-the-badge)](./Contenidos.md)
 
 </div>
 
