@@ -149,6 +149,12 @@ Facilitar la comprensión visual del algoritmo, identificar errores y comunicar 
 
 </div> 
 
+<div align="left">
+
+[![🔙 Regresar a Contenidos](https://img.shields.io/badge/🔙_Regresar_a_Contenidos-blue?style=for-the-badge)](../Contenidos.md)
+
+</div>
+
 
 
 
