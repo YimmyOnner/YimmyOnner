@@ -64,9 +64,8 @@
 ---
 
 # <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
-- Uso de ChatGPT para la generación de explicaciones y ejemplos de código.  
-- Revisión de sintaxis y optimización de algoritmos con herramientas de IA.  
-- Elaboración de reflexiones y resúmenes mediante apoyo asistido.
+[![📗 Declaración del Uso de la IA Generativa](https://img.shields.io/badge/📗_Uso_de_la_IA-32CD32?style=for-the-badge)](./DeclaracionIA.md)
+
 
 ---
 # 💭 Reflexión Crítica de la Unidad
