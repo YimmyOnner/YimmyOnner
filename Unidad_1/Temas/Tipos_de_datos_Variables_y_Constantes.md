@@ -1,89 +1,150 @@
-# Tipos de datos: Variables y Constantes
+# 🧮 Tipos de datos: Variables y Constantes
 
-# Clasificación de los tipos de datos
-## Simples
+---
 
-- Enteros (int): valores que no tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 10, 120, 1200, etc.
+## 📘 Clasificación de los tipos de datos
 
-- Reales (float o double): valores que tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero: 4.5, 3.1416, 0.83, etc.
+### 🔹 Simples
 
-- Lógicos (boolean): tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero.
+- **Enteros (int):** valores que no tienen punto decimal o flotante, pueden ser positivos o negativos e incluyen el cero.  
+  Ejemplo: `10`, `120`, `1200`, etc.
 
-- Carácter (char): conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos; por ejemplo: “a”, “x”, “3”, “#”.
-- Cadena (también conocidas como alfanuméricos): La combinación de los caracteres forma una cadena. Ejemplo: “Calle 107 # 125-48A”, “Hola mundo”.
+- **Reales (float o double):** valores con punto decimal o flotante, pueden ser positivos o negativos e incluyen el cero.  
+  Ejemplo: `4.5`, `3.1416`, `0.83`, etc.
 
+- **Lógicos (boolean):** tipo especial que solo puede almacenar dos valores: `verdadero` o `falso`.
 
-## Compuestos
+- **Carácter (char):** un solo carácter entre comillas dobles; puede ser letra, número, signo o símbolo.  
+  Ejemplo: `"a"`, `"x"`, `"3"`, `"#"`.
 
-  Estos tipos de dato no vimos dentro de la Unidad pero, esto nos servira para tener mas conocimientos para ciclos posteriorres
-- Arreglos (vectores y matrices): Conjunto de elementos del mismo tipo almacenados de forma contigua; permiten acceder por índices.
+- **Cadena (string o alfanumérico):** combinación de caracteres.  
+  Ejemplo: `"Calle 107 # 125-48A"`, `"Hola mundo"`.
 
-- Registros (struct): Agrupan distintos tipos de datos bajo un mismo nombre; cada campo representa un atributo.
+---
 
-- Listas: Colección dinámica de elementos enlazados que permiten inserciones y eliminaciones flexibles.
+### 🔹 Compuestos
 
-- Pilas: Estructura tipo LIFO (último en entrar, primero en salir), usada para manejar operaciones anidadas.
+> Estos tipos de datos no se vieron en esta unidad, pero servirán para ciclos posteriores.
 
-- Colas: Estructura tipo FIFO (primero en entrar, primero en salir), ideal para procesar tareas en orden.
+- **Arreglos (vectores y matrices):** conjunto de elementos del mismo tipo almacenados de forma contigua; permiten acceder por índices.
+- **Registros (struct):** agrupan distintos tipos de datos bajo un mismo nombre; cada campo representa un atributo.
+- **Listas:** colección dinámica de elementos enlazados que permiten inserciones y eliminaciones flexibles.
+- **Pilas:** estructura tipo **LIFO** (último en entrar, primero en salir), usada para operaciones anidadas.
+- **Colas:** estructura tipo **FIFO** (primero en entrar, primero en salir), ideal para procesar tareas en orden.
+- **Conjuntos:** agrupan elementos únicos sin orden específico; permiten operaciones como unión o intersección.
+- **Archivos:** estructuras que permiten almacenar y recuperar datos de manera permanente.
 
-- Conjuntos: Agrupan elementos únicos sin orden específico; permiten operaciones como unión o intersección.
+---
 
-- Archivos: Estructuras que permiten almacenar y recuperar datos de manera permanente en dispositivos externos.
+## 🧱 Identificadores y Variables
 
-# Identificadores y Variables
+### 🏷️ Identificadores
 
-## Identificadores: 
-Un identificador es el nombre que se le asigna a una determinada variable, constante, funcion o cualquier elemento dentro de un lenguaje de programación que sirva para almacenar datos o realizar alguna operación matemática, este nombre no debe ser de una palabra reservada del mismo sistema, casi contrario no funcionara, para almacenar datos dentro de ella. Todo identificador si va a utilizar dos palabras como nombre debe utilizar la practica Lower Camel Case(o convención con guion bajo), de que se trata esta practica, bueno consiste en que, si se va a escribir el nombre de la variable un poco extenso, que la primera palabra antes del primer guion se escriba con minuscula, y las demas palabras despues del guion todas deben empezar con la primera letra en Mayuscula. Un ejemplo practico para facilitar la comprensión: "nombres_Apellido1_Apellido2".
+Un **identificador** es el nombre asignado a una variable, constante, función o cualquier elemento dentro de un lenguaje de programación.  
+No debe ser una palabra reservada del lenguaje.
 
-En este ejemplo se puede ver claramente lo explicado anteriormente, la primera palabra que en este caso es nombres se escribe en minuscula, y las demas palabras que van despues de los guiones, todas tienen la primera letra en Mayusculas, puede que no se la haya aplicado mucho en esta unidad, pero, en ciclos posteriores en todos los algoritmos que realizemos la vamos a necesitar.
+Para nombres con más de una palabra, se recomienda el uso de la práctica **Lower Camel Case** o el **guion bajo** `_`.
 
-Algunas de las reglas primordiales para un identificador son las siguiente:
--Siempre debe comenzar por una letra o subguión. No debe empezar con número.
--No debe tener Espacios en Blanco.
--No debe tener caracteres especiales (#, $, %, -,...).
--No debe tener letras como la Ñ o ñ, Acento agudo (Á, é, í...), Diéresis (ü, ë, ...), etc.
- A continuación algunos ejemplos para mayor comprension:
+📌 **Ejemplo:** `nombres_Apellido1_Apellido2`
 
-- 1nombre: Incorrecto comienza con un numero el identificador el programa no permite eso
+En este caso:
+- La primera palabra se escribe en minúscula.
+- Las palabras posteriores inician con mayúscula.
+- Se usa guion bajo `_` para separar palabras.
 
-- nombre apellido: Incorrecto cuenta con un espacio en blanco, puede causar una falla en el programa
+Aunque esta convención puede no haberse aplicado en esta unidad, será muy útil en ciclos posteriores.
 
-- edad-usuario: Incorrecto no puede usar el guion normal, debe utilizar el guion bajo
+---
 
-- año_actual: Incorrecto no puede llevar letras que no correspondan ene le idioma ingles como la ñ por ejemplo
+#### ✅ Reglas para identificadores
 
- 
+- Debe comenzar por una **letra o subguion (_)**, no con un número.  
+- **No debe tener espacios en blanco.**  
+- **No puede contener caracteres especiales** como `#`, `$`, `%`, `-`, etc.  
+- **No debe incluir letras no estándar** como `Ñ` o con acentos (`á`, `é`, `í`, etc.).
 
+📋 **Ejemplos:**
 
-## Variables:
-Las variables son espacios en memoria que permiten almacenar datos, los cuales pueden ir cambiando mendiante el transcurso del programa, dentro de un rango de valores, dependiendo del tipo de dato que se quiera almacenar, como lo podria ser una variable de tipo entero, solo puede almacenar valores enteros, y si intentamos almacenar algun otro tipo de dato dentro de esta no va a ser posible.
+| Ejemplo | Estado | Motivo |
+|----------|---------|--------|
+| `1nombre` | ❌ Incorrecto | Empieza con un número |
+| `nombre apellido` | ❌ Incorrecto | Tiene un espacio en blanco |
+| `edad-usuario` | ❌ Incorrecto | Usa guion normal, debe ser `_` |
+| `año_actual` | ❌ Incorrecto | Usa una letra no válida (`ñ`) |
 
-En este pequeño algoritmo podemos observar como funciona una variable, primero x y z son declaradas, despues se les asigna un valor a las 2 variables, despues se presenta el valor en pantalla de x y z en ese momento, luego a x se le suma a su valor anterior 2 y a z en cambio se le resta el valor anterior, y por ultimo se presenta el valor de x y z despues de su respectiva operación, con este programa vimos como funciona una variable en un lenguaje de programación.
+---
 
-<img width="463" height="268" alt="Captura de pantalla 2025-10-31 051620" src="https://github.com/user-attachments/assets/72ebfedc-0240-4d8f-a638-8caf92d68f4e" />
+### 🔢 Variables
 
-## Asignacion:
-La asignación de datos consiste en darle el valor a una variable o una constante mediante un signo en especifico que en algunos casos es el igual = y en otros casos es este <- pero los dos son lo mismo, en los ejemplos anteriores y posteriores se ve esto con bastante claridad.
-Y por ultimo el valor que se quiera agregar mediante la asignacion debe ser compatible con el tipo de dato al que pertenece dicha variable o constante eso seria todo por la asignación
+Las **variables** son espacios en memoria que permiten almacenar datos que pueden **cambiar durante la ejecución** del programa.  
+El tipo de dato determina qué clase de valores puede guardar (entero, real, carácter, etc.).
 
-## Constantes:
-Las constantes son valores que no cambian durante la ejecución del programa, ademas al contrario de las variables para poder identificar las constantes, las podemos escribir en todo el nombre en Mayusculas, a continuacion un ejemplo para mayor comprensión.
+📘 **Ejemplo visual:**
 
-Este ejemplo es para calcular el area de un circulo con su radio ingresado desde teclado, pero lo que nos interesa es la constante VALOR_PI que como ya explique se debe escribir ne mayusculas para poderla identificar, gracias a esto este algoritmo no cuenta con errores gramaticales ni semanticos.
+<img width="463" height="268" alt="Ejemplo de variables" src="https://github.com/user-attachments/assets/72ebfedc-0240-4d8f-a638-8caf92d68f4e" />
 
-<img width="553" height="266" alt="Captura de pantalla 2025-10-31 052408" src="https://github.com/user-attachments/assets/46e29b40-13e2-49e0-b203-b8c17b1ac01d" />
+En este algoritmo:
+1. Se declaran `x` y `z`.  
+2. Se les asignan valores.  
+3. Se muestran en pantalla.  
+4. Luego `x` aumenta en 2 y `z` disminuye su valor.  
+5. Se vuelve a mostrar el resultado.
 
-## Tablas de Operadores
+Esto demuestra cómo una variable puede **cambiar su valor** durante la ejecución.
 
-<img width="897" height="142" alt="Captura de pantalla 2025-10-31 053746" src="https://github.com/user-attachments/assets/9a53ca9c-bf0e-4b00-a94c-85478f7e4532" />
-<img width="832" height="255" alt="Captura de pantalla 2025-10-31 053740" src="https://github.com/user-attachments/assets/77e5e718-4fb3-44bc-af81-33988573e0e7" />
-<img width="817" height="288" alt="Captura de pantalla 2025-10-31 053732" src="https://github.com/user-attachments/assets/02436ce5-d60b-4f7f-bf42-74f044e35410" />
-<img width="701" height="323" alt="Captura de pantalla 2025-10-31 053757" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
+---
 
+### 🧩 Asignación
 
-## Ejemplo de la prioridad de los operadores en accion
+La **asignación** consiste en dar un valor a una variable o constante mediante el signo:
 
-<img width="402" height="218" alt="Captura de pantalla 2025-10-31 054421" src="https://github.com/user-attachments/assets/1cf59ce7-11d0-46f7-98e0-3088e7696a6e" />
+- `=`  (en C, Python, Java, etc.)
+- `<-` (en PSeInt)
 
-Eso seria todo por esta seccion por favor vuelva al contenido de la Unidad para pasar a otra sección:
+Ambos significan lo mismo.
+
+📌 El valor asignado debe ser **compatible con el tipo de dato** de la variable o constante.
+
+---
+
+### 🔒 Constantes
+
+Las **constantes** son valores **que no cambian** durante la ejecución del programa.  
+Por convención, su nombre se escribe **en mayúsculas**.
+
+📘 **Ejemplo:** cálculo del área de un círculo con una constante `VALOR_PI`.
+
+<img width="553" height="266" alt="Constantes en acción" src="https://github.com/user-attachments/assets/46e29b40-13e2-49e0-b203-b8c17b1ac01d" />
+
+Gracias a esta convención, el programa evita errores gramaticales y semánticos.
+
+---
+
+## 🧮 Tablas de Operadores
+
+<img width="897" height="142" alt="Tabla operadores 1" src="https://github.com/user-attachments/assets/9a53ca9c-bf0e-4b00-a94c-85478f7e4532" />
+<img width="832" height="255" alt="Tabla operadores 2" src="https://github.com/user-attachments/assets/77e5e718-4fb3-44bc-af81-33988573e0e7" />
+<img width="817" height="288" alt="Tabla operadores 3" src="https://github.com/user-attachments/assets/02436ce5-d60b-4f7f-bf42-74f044e35410" />
+<img width="701" height="323" alt="Tabla operadores 4" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
+
+---
+
+## ⚙️ Ejemplo de prioridad de operadores en acción
+
+<img width="402" height="218" alt="Prioridad de operadores" src="https://github.com/user-attachments/assets/1cf59ce7-11d0-46f7-98e0-3088e7696a6e" />
+
+---
+
+## ✅ Conclusión
+
+> Eso sería todo por esta sección.  
+> Por favor, vuelva al contenido de la unidad para pasar a otra sección.
+
+---
+
+<div align="center">
+
+[![🔙 Regresar a Contenidos](https://img.shields.io/badge/🔙_Regresar_a_Contenidos-blue?style=for-the-badge)](../Contenidos.md)
+
+</div>
 
