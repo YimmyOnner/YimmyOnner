@@ -50,7 +50,13 @@
 </div>
 
 ---
+# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Conclusiones
 
+<div align="center">
+
+### Contenido no Disponible: No accesible vuelva al final del primer Ciclo
+</div>
+---
 # <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias
 [![📗 Referencias Bibliograficas](https://img.shields.io/badge/📗_Referencias_Bibliograficas-32CD32?style=for-the-badge)](./Bibliografia.md)
 
