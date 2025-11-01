@@ -6,7 +6,7 @@ Esta sección contiene **ejemplos seleccionados** y análisis centrados exclusiv
 
 ## 1) PSeInt (Pseudocódigo) — Ejemplo: Cálculo del IMC
 
-**Descripción:** implementación en pseudocódigo para calcular el Índice de Masa Corporal (IMC). Este ejemplo muestra entrada, proceso y salida, y es ideal para practicar estructuras secuenciales y validaciones sencillas.
+**Descripción:** implementación en pseudocódigo para calcular el Índice de Masa Corporal (IMC). Este ejemplo muestra entrada, proceso y salida, y es ideal para practicar estructura [6]s secuenciales y validaciones sencillas.
 
 **Pseudocódigo (PSeInt):**
 ```pseudocode
@@ -68,7 +68,7 @@ FinAlgoritmo
 **Análisis:**  
 - El diagrama evidencia claramente flujo lineal (secuencial).  
 - Al visualizar la entrada/proceso/salida se reduce la probabilidad de errores de traducción a código.  
-- Útil para explicar el algoritmo en clases y para documentar procedimientos en proyectos más grandes.
+- Útil para explicar el algoritmo [2] en clases y para documentar procedimientos en proyectos más grandes.
 
 ---
 
@@ -99,7 +99,7 @@ int main() {
 
 **Análisis:**  
 - Validaciones con `scanf` y comprobación de `altura <= 0` evitan fallos.  
-- La estructura condicional `if-else` replica la lógica del pseudocódigo.  
+- La estructura [6] condicional `if-else` replica la lógica del pseudocódigo.  
 - Formato `%.2f` para imprimir con dos decimales mejora presentación de resultados.
 
 ### b) Suma de dos números (ejemplo sencillo en C)
@@ -120,7 +120,7 @@ int main() {
 
 **Análisis:**  
 - Ejemplo básico para practicar entrada/salida y operaciones aritméticas.  
-- Útil como primer programa antes de introducir estructuras de control.
+- Útil como primer programa antes de introducir estructura [6]s de control.
 
 ---
 

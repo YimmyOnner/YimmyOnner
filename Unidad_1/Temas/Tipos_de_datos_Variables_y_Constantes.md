@@ -1,8 +1,8 @@
-# 🧮 Tipos de datos: Variables y Constantes
+# 🧮 Tipos de datos [5]: Variables y Constantes
 
 ---
 
-## 📘 Clasificación de los tipos de datos
+## 📘 Clasificación de los tipos de datos [5]
 
 ### 🔹 Simples
 
@@ -24,15 +24,15 @@
 
 ### 🔹 Compuestos
 
-> Estos tipos de datos no se vieron en esta unidad, pero servirán para ciclos posteriores.
+> Estos tipos de datos [5] no se vieron en esta unidad, pero servirán para ciclos posteriores.
 
 - **Arreglos (vectores y matrices):** conjunto de elementos del mismo tipo almacenados de forma contigua; permiten acceder por índices.
-- **Registros (struct):** agrupan distintos tipos de datos bajo un mismo nombre; cada campo representa un atributo.
+- **Registros (struct):** agrupan distintos tipos de datos [5] bajo un mismo nombre; cada campo representa un atributo.
 - **Listas:** colección dinámica de elementos enlazados que permiten inserciones y eliminaciones flexibles.
-- **Pilas:** estructura tipo **LIFO** (último en entrar, primero en salir), usada para operaciones anidadas.
-- **Colas:** estructura tipo **FIFO** (primero en entrar, primero en salir), ideal para procesar tareas en orden.
+- **Pilas:** estructura [6] tipo **LIFO** (último en entrar, primero en salir), usada para operaciones anidadas.
+- **Colas:** estructura [6] tipo **FIFO** (primero en entrar, primero en salir), ideal para procesar tareas en orden.
 - **Conjuntos:** agrupan elementos únicos sin orden específico; permiten operaciones como unión o intersección.
-- **Archivos:** estructuras que permiten almacenar y recuperar datos de manera permanente.
+- **Archivos:** estructura [6]s que permiten almacenar y recuperar datos [5] de manera permanente.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 🏷️ Identificadores
 
-Un **identificador** es el nombre asignado a una variable, constante, función o cualquier elemento dentro de un lenguaje de programación.  
+Un **identificador** es el nombre asignado a una variable, constante, función o cualquier elemento dentro de un lenguaje de programación [1].  
 No debe ser una palabra reservada del lenguaje.
 
 Para nombres con más de una palabra, se recomienda el uso de la práctica **Lower Camel Case** o el **guion bajo** `_`.
@@ -76,14 +76,14 @@ Aunque esta convención puede no haberse aplicado en esta unidad, será muy úti
 
 ### 🔢 Variables
 
-Las **variables** son espacios en memoria que permiten almacenar datos que pueden **cambiar durante la ejecución** del programa.  
+Las **variables [4]** son espacios en memoria que permiten almacenar datos [5] que pueden **cambiar durante la ejecución** del programa.  
 El tipo de dato determina qué clase de valores puede guardar (entero, real, carácter, etc.).
 
 📘 **Ejemplo visual:**
 
-<img width="463" height="268" alt="Ejemplo de variables" src="https://github.com/user-attachments/assets/72ebfedc-0240-4d8f-a638-8caf92d68f4e" />
+<img width="463" height="268" alt="Ejemplo de variables [4]" src="https://github.com/user-attachments/assets/72ebfedc-0240-4d8f-a638-8caf92d68f4e" />
 
-En este algoritmo:
+En este algoritmo [2]:
 1. Se declaran `x` y `z`.  
 2. Se les asignan valores.  
 3. Se muestran en pantalla.  
@@ -109,7 +109,7 @@ Ambos significan lo mismo.
 
 ### 🔒 Constantes
 
-Las **constantes** son valores **que no cambian** durante la ejecución del programa.  
+Las **constantes [4]** son valores **que no cambian** durante la ejecución del programa.  
 Por convención, su nombre se escribe **en mayúsculas**.
 
 📘 **Ejemplo:** cálculo del área de un círculo con una constante `VALOR_PI`.
@@ -122,16 +122,16 @@ Gracias a esta convención, el programa evita errores gramaticales y semánticos
 
 ## 🧮 Tablas de Operadores
 
-<img width="897" height="142" alt="Tabla operadores 1" src="https://github.com/user-attachments/assets/9a53ca9c-bf0e-4b00-a94c-85478f7e4532" />
-<img width="832" height="255" alt="Tabla operadores 2" src="https://github.com/user-attachments/assets/77e5e718-4fb3-44bc-af81-33988573e0e7" />
-<img width="817" height="288" alt="Tabla operadores 3" src="https://github.com/user-attachments/assets/02436ce5-d60b-4f7f-bf42-74f044e35410" />
-<img width="701" height="323" alt="Tabla operadores 4" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
+<img width="897" height="142" alt="Tabla operadores [8] 1" src="https://github.com/user-attachments/assets/9a53ca9c-bf0e-4b00-a94c-85478f7e4532" />
+<img width="832" height="255" alt="Tabla operadores [8] 2" src="https://github.com/user-attachments/assets/77e5e718-4fb3-44bc-af81-33988573e0e7" />
+<img width="817" height="288" alt="Tabla operadores [8] 3" src="https://github.com/user-attachments/assets/02436ce5-d60b-4f7f-bf42-74f044e35410" />
+<img width="701" height="323" alt="Tabla operadores [8] 4" src="https://github.com/user-attachments/assets/98c64fa6-9736-45cc-9544-be74bcbc93da" />
 
 ---
 
-## ⚙️ Ejemplo de prioridad de operadores en acción
+## ⚙️ Ejemplo de prioridad de operadores [8] en acción
 
-<img width="402" height="218" alt="Prioridad de operadores" src="https://github.com/user-attachments/assets/1cf59ce7-11d0-46f7-98e0-3088e7696a6e" />
+<img width="402" height="218" alt="Prioridad de operadores [8]" src="https://github.com/user-attachments/assets/1cf59ce7-11d0-46f7-98e0-3088e7696a6e" />
 
 ---
 
