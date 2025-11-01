@@ -86,9 +86,11 @@ En este caso se mantienen solo con fines académicos y de comprensión.
 - 🧾 **Documentación y Mantenimiento:**  
   Este apartado se utiliza principalmente en **proyectos grandes o profesionales**, donde se redacta un informe técnico del algoritmo implementado.
 
+---
+
 # ⚙️ Principales Dificultades en la Aplicación de los Contenidos
 
----
+
 
 Durante el desarrollo de esta unidad se identificaron diversas dificultades al aplicar los conceptos teóricos y prácticos de la programación, principalmente en el uso de **PSeInt**, la **lógica algorítmica**, y el **lenguaje C**.  
 A continuación, se describen las principales problemáticas encontradas junto con las **soluciones implementadas** para mejorar la comprensión y el desempeño en la materia.
