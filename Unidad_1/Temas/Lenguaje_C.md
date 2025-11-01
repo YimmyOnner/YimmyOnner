@@ -1,14 +1,14 @@
 # 💻 Lenguaje C
 
-> “El lenguaje C es uno de los más utilizados en la historia de la programación [1] por su eficiencia, flexibilidad y control sobre el hardware.”
+> “El lenguaje C es uno de los más utilizados en la historia de la programación por su eficiencia, flexibilidad y control sobre el hardware.”
 > — *Goin, 2022; Guerra Salazar et al., 2023*
 
 ---
 
 ## ⚙️ Codificación
 
-La **codificación** consiste en traducir un algoritmo [2] escrito en pseudocódigo a un **lenguaje de programación [1]** formal.
-Esto implica reemplazar las palabras en español por sus equivalentes en inglés y **agregar detalles técnicos** como la declaración de variables [4], constantes [4] y librerías.
+La **codificación** consiste en traducir un algoritmo escrito en pseudocódigo a un **lenguaje de programación ** formal.
+Esto implica reemplazar las palabras en español por sus equivalentes en inglés y **agregar detalles técnicos** como la declaración de variables, constantes y librerías. [4]
 
 📁 El código fuente en C se guarda con la extensión `.c`, por ejemplo:
 
@@ -63,9 +63,9 @@ gcc hola_mundo.c -o hola_mundo
 
 ---
 
-## 🧮 Tipos de datos [5] en C
+## 🧮 Tipos de datos en C
 
-Los **tipos de datos [5]** determinan qué tipo de información puede almacenar una variable.
+Los **tipos de datos ** determinan qué tipo de información puede almacenar una variable.
 
 | Tipo de dato | Descripción                          | Ejemplo                    |
 | ------------ | ------------------------------------ | -------------------------- |
@@ -76,24 +76,24 @@ Los **tipos de datos [5]** determinan qué tipo de información puede almacenar 
 | `char[]`     | Cadena de caracteres                 | `char nombre[] = "Maria";` |
 | `bool`       | Valores lógicos (verdadero/falso)    | `bool activo = true;`      |
 
-📗 *Fuente: Guerra Salazar et al., 2023*
+📗 *Fuente: Guerra Salazar et al., 2023* [5]
 
 ---
 
-## 🧾 Declaración de variables [4]
+## 🧾 Declaración de variables
 
 En C, una **declaración de variable** indica al compilador el *tipo de dato* que tendrá la variable y su *nombre*. Cada declaración termina con un punto y coma (`;`).
 
 ### 🔣 Símbolos y su significado
 
 * `;` → Finaliza una sentencia.
-* `,` → Permite declarar varias variables [4] del mismo tipo en una sola línea (`int a, b;`).
+* `,` → Permite declarar varias variables del mismo tipo en una sola línea (`int a, b;`).
 * `[]` → Define un arreglo (por ejemplo, `char nombre[20]` es una cadena de 20 caracteres).
 * `&` → Operador de dirección; obtiene la dirección de memoria de una variable (usado por `scanf`).
 * `*` → Operador de puntero o desreferenciación (apunta a memoria).
-* `=` → Asignación de valor.
+* `=` → Asignación de valor. [4]
 
-### 🧾 Declarar variables [4]: formas comunes
+### 🧾 Declarar variables: formas comunes
 
 ```c
 int a;                // declarar sin inicializar
@@ -109,7 +109,7 @@ En C, las cadenas **no** son un tipo nativo de primer nivel; se representan como
 ```c
 char nombre[20];            // reserva 20 bytes; la cadena puede almacenar hasta 19 caracteres + '\0'
 char saludo[] = "Hola";    // el compilador asigna 5 bytes: 'H','o','l','a','\0'
-char *msg = "Bienvenido";  // puntero a un literal constante en segmento de datos [5]
+char *msg = "Bienvenido";  // puntero a un literal constante en segmento de datos
 ```
 
 **Importante:** `char nombre[4] = "hola";` puede provocar sobrescritura de memoria porque necesita 5 bytes (`h`,`o`,`l`,`a`,`\0`).
@@ -153,7 +153,7 @@ int main() {
 
 ## 🔢 Constantes
 
-Las **constantes [4]** son valores que no cambian durante la ejecución del programa.
+Las **constantes** son valores que no cambian durante la ejecución del programa.[4]
 Pueden declararse de dos maneras:
 
 ```c
@@ -178,7 +178,7 @@ sueldo = 450;
 estadoCivil = 'D';
 ```
 
-También se usan **operadores [8] compuestos** y **de incremento/decremento**:
+También se usan **operadores compuestos** y **de incremento/decremento**:
 
 ```c
 b++;
@@ -189,7 +189,7 @@ b--;
 
 ---
 
-## 💬 Entrada y salida de datos [5]
+## 💬 Entrada y salida de datos
 
 ### Entrada → `scanf()`
 
@@ -213,7 +213,7 @@ printf("Nombre: %s\n", nombre);
 
 ### 🧾 Pseudocódigo
 
-```pseint [3]
+```pseint 
 Algoritmo Calculo_Area_Rectangulo
   Definir base, altura, area Como Real
   Escribir "Ingrese la base y la altura:"
@@ -275,7 +275,7 @@ int main() {
 
 ## 📘 Conclusión
 
-El **lenguaje C** es un pilar de la programación [1] estructura [6]da.
+El **lenguaje C** es un pilar de la programación estructurada.
 Permite escribir código eficiente, cercano al hardware y con gran control sobre los recursos del sistema.
 Su aprendizaje brinda una base sólida para otros lenguajes como C++, Java o Python.
 
