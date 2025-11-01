@@ -1,39 +1,39 @@
-# 🧮 Tipos de datos [5]: Variables y Constantes
+# 🧮 Tipos de datos: Variables y Constantes
 
 ---
 
-## 📘 Clasificación de los tipos de datos [5]
+## 📘 Clasificación de los tipos de datos
 
 ### 🔹 Simples
 
 - **Enteros (int):** valores que no tienen punto decimal o flotante, pueden ser positivos o negativos e incluyen el cero.  
-  Ejemplo: `10`, `120`, `1200`, etc.
+  Ejemplo: `10`, `120`, `1200`, etc. [5]
 
 - **Reales (float o double):** valores con punto decimal o flotante, pueden ser positivos o negativos e incluyen el cero.  
-  Ejemplo: `4.5`, `3.1416`, `0.83`, etc.
+  Ejemplo: `4.5`, `3.1416`, `0.83`, etc. [5]
 
-- **Lógicos (boolean):** tipo especial que solo puede almacenar dos valores: `verdadero` o `falso`.
+- **Lógicos (boolean):** tipo especial que solo puede almacenar dos valores: `verdadero` o `falso`. [5]
 
 - **Carácter (char):** un solo carácter entre comillas dobles; puede ser letra, número, signo o símbolo.  
-  Ejemplo: `"a"`, `"x"`, `"3"`, `"#"`.
+  Ejemplo: `"a"`, `"x"`, `"3"`, `"#"`. [5]
 
 - **Cadena (string o alfanumérico):** combinación de caracteres.  
-  Ejemplo: `"Calle 107 # 125-48A"`, `"Hola mundo"`.
+  Ejemplo: `"Calle 107 # 125-48A"`, `"Hola mundo"`. [5]
 
 ---
 
 ### 🔹 Compuestos
 
-> Estos tipos de datos [5] no se vieron en esta unidad, pero servirán para ciclos posteriores.
+> Estos tipos de datos no se vieron en esta unidad, pero servirán para ciclos posteriores.
 
 - **Arreglos (vectores y matrices):** conjunto de elementos del mismo tipo almacenados de forma contigua; permiten acceder por índices.
-- **Registros (struct):** agrupan distintos tipos de datos [5] bajo un mismo nombre; cada campo representa un atributo.
+- **Registros (struct):** agrupan distintos tipos de datos bajo un mismo nombre; cada campo representa un atributo.
 - **Listas:** colección dinámica de elementos enlazados que permiten inserciones y eliminaciones flexibles.
-- **Pilas:** estructura [6] tipo **LIFO** (último en entrar, primero en salir), usada para operaciones anidadas.
-- **Colas:** estructura [6] tipo **FIFO** (primero en entrar, primero en salir), ideal para procesar tareas en orden.
+- **Pilas:** estructura tipo **LIFO** (último en entrar, primero en salir), usada para operaciones anidadas.
+- **Colas:** estructura tipo **FIFO** (primero en entrar, primero en salir), ideal para procesar tareas en orden.
 - **Conjuntos:** agrupan elementos únicos sin orden específico; permiten operaciones como unión o intersección.
-- **Archivos:** estructura [6]s que permiten almacenar y recuperar datos [5] de manera permanente.
-
+- **Archivos:** estructuras que permiten almacenar y recuperar datos de manera permanente.
+  [9]
 ---
 
 ## 🧱 Identificadores y Variables
@@ -76,14 +76,14 @@ Aunque esta convención puede no haberse aplicado en esta unidad, será muy úti
 
 ### 🔢 Variables
 
-Las **variables [4]** son espacios en memoria que permiten almacenar datos [5] que pueden **cambiar durante la ejecución** del programa.  
+Las **variables ** son espacios en memoria que permiten almacenar datos que pueden **cambiar durante la ejecución** del programa.  
 El tipo de dato determina qué clase de valores puede guardar (entero, real, carácter, etc.).
 
 📘 **Ejemplo visual:**
 
 <img width="463" height="268" alt="Ejemplo de variables [4]" src="https://github.com/user-attachments/assets/72ebfedc-0240-4d8f-a638-8caf92d68f4e" />
 
-En este algoritmo [2]:
+En este algoritmo:
 1. Se declaran `x` y `z`.  
 2. Se les asignan valores.  
 3. Se muestran en pantalla.  
@@ -109,7 +109,7 @@ Ambos significan lo mismo.
 
 ### 🔒 Constantes
 
-Las **constantes [4]** son valores **que no cambian** durante la ejecución del programa.  
+Las **constantes** son valores **que no cambian** durante la ejecución del programa.  
 Por convención, su nombre se escribe **en mayúsculas**.
 
 📘 **Ejemplo:** cálculo del área de un círculo con una constante `VALOR_PI`.
@@ -129,7 +129,7 @@ Gracias a esta convención, el programa evita errores gramaticales y semánticos
 
 ---
 
-## ⚙️ Ejemplo de prioridad de operadores [8] en acción
+## ⚙️ Ejemplo de prioridad de operadores en acción
 
 <img width="402" height="218" alt="Prioridad de operadores [8]" src="https://github.com/user-attachments/assets/1cf59ce7-11d0-46f7-98e0-3088e7696a6e" />
 
