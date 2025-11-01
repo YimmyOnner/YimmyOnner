@@ -86,6 +86,70 @@ En este caso se mantienen solo con fines académicos y de comprensión.
 - 🧾 **Documentación y Mantenimiento:**  
   Este apartado se utiliza principalmente en **proyectos grandes o profesionales**, donde se redacta un informe técnico del algoritmo implementado.
 
+# ⚙️ Principales Dificultades en la Aplicación de los Contenidos
+
+---
+
+Durante el desarrollo de esta unidad se identificaron diversas dificultades al aplicar los conceptos teóricos y prácticos de la programación, principalmente en el uso de **PSeInt**, la **lógica algorítmica**, y el **lenguaje C**.  
+A continuación, se describen las principales problemáticas encontradas junto con las **soluciones implementadas** para mejorar la comprensión y el desempeño en la materia.
+
+---
+
+## 🧩 1. Dificultad: Comprensión de la lógica algorítmica
+
+**Descripción:**  
+Al inicio, resultó complejo estructurar los pasos lógicos que componen un algoritmo, especialmente al distinguir entre instrucciones secuenciales, condicionales y cíclicas.
+
+**Solución aplicada:**  
+Se realizaron **diagramas de flujo** antes de cada algoritmo, lo que permitió visualizar mejor el proceso y entender el orden lógico de ejecución. Además, se reforzó la práctica con ejemplos en PSeInt y su traducción a lenguaje C.
+
+---
+
+## 🧮 2. Dificultad: Declaración y uso correcto de variables y constantes
+
+**Descripción:**  
+Muchos errores provinieron del mal uso de variables: nombres no válidos, errores en los tipos de datos o confusión entre variables y constantes.
+
+**Solución aplicada:**  
+Se creó una **guía de buenas prácticas** para el nombrado y declaración de variables, aplicando convenciones como *lowerCamelCase* y evitando palabras reservadas. También se incluyeron ejemplos prácticos de asignación en PSeInt y C.
+
+---
+
+## 🧠 3. Dificultad: Comprender la diferencia entre algoritmos cualitativos y cuantitativos
+
+**Descripción:**  
+Existía confusión entre los algoritmos que describen procesos con pasos lógicos (cualitativos) y los que involucran operaciones numéricas (cuantitativos).
+
+**Solución aplicada:**  
+Se diseñaron ejercicios comparativos donde un mismo problema se resolvía con ambos tipos de algoritmos. Esto facilitó visualizar cómo cambia la representación según el tipo de datos y operaciones involucradas.
+
+---
+
+## 💻 4. Dificultad: Transición del pseudocódigo al lenguaje C
+
+**Descripción:**  
+Los estudiantes presentaron errores al traducir programas de PSeInt a C, especialmente por las diferencias de sintaxis (declaración de variables, impresión, entrada de datos, etc.).
+
+**Solución aplicada:**  
+Se implementó una **tabla comparativa de equivalencias** entre PSeInt y C. Además, se desarrollaron ejemplos paso a paso con análisis de errores comunes y su corrección.
+
+---
+
+## 🔄 5. Dificultad: Comprender la prioridad de los operadores y su efecto en expresiones
+
+**Descripción:**  
+En cálculos matemáticos, muchos resultados no eran los esperados debido a la falta de dominio de las reglas de prioridad de los operadores.
+
+**Solución aplicada:**  
+Se reforzó el aprendizaje con **tablas de operadores** y ejemplos ejecutados en PSeInt para observar los resultados reales. También se propuso realizar pequeñas pruebas variando el orden de las operaciones para verificar los cambios.
+
+---
+
+# 🧭 Conclusión
+
+Las dificultades mencionadas forman parte del proceso natural de aprendizaje en la lógica de programación.  
+Gracias a las estrategias aplicadas —diagramas, guías, comparaciones, y práctica constante— se logró mejorar la comprensión, reducir errores y afianzar las bases de la programación estructurada.
+
 ---
 
 📘 Con esto, los **elementos y características de los algoritmos** quedan claros.  
