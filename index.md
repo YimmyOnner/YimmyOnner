@@ -52,9 +52,7 @@
 ---
 
 # <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias
-- Pressman, R. S. (2010). *Ingeniería del software: un enfoque práctico.* McGraw-Hill.  
-- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms.* MIT Press.  
-- Otros recursos académicos utilizados durante el curso.
+[Referencias](./Bibliografia.md)
 
 ---
 
