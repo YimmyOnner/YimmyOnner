@@ -52,7 +52,7 @@
 ---
 
 # <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias
-[Referencias](./Bibliografia.md)
+[![📗 Referencias Bibliograficas](https://img.shields.io/badge/📗_Referencias_Bibliograficas-32CD32?style=for-the-badge)](./Bibliografia.md)
 
 ---
 
