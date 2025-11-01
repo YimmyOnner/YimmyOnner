@@ -1,6 +1,6 @@
 # 🧩 Programación por Bloques - Ejemplos y Análisis
 
-La **programación [1] por bloques** es una metodología visual que facilita la comprensión de la lógica algorítmica mediante el uso de piezas encajables que representan instrucciones. A continuación se muestran ejemplos extraídos de ejercicios educativos (Blockly) y un análisis de cada caso.
+La **programación por bloques** es una metodología visual que facilita la comprensión de la lógica algorítmica mediante el uso de piezas encajables que representan instrucciones. A continuación se muestran ejemplos extraídos de ejercicios educativos (Blockly) y un análisis de cada caso.
 
 ---
 
